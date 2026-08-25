@@ -1,15 +1,23 @@
-Yes.
+# Inference from Evidence
 
-Consciousness in other systems is inferred from evidence. It is not directly observed.
+Consciousness in another system is **inferred from evidence**. It is not directly observed.
 
-The inference usually comes from things like behavior, nervous-system organization, responsiveness, learning, pain behavior, self-report, and similarity to systems we already have strong reason to regard as conscious.
+The basic structure is:
 
-So the structure is:
+> **observable evidence → inference about subjective experience**
 
-observable evidence → inference about subjective experience
+Relevant evidence may include behavior, nervous-system or computational organization, responsiveness, learning, pain or reward behavior, self-report, internal-state tracking, and similarity to systems already strongly associated with consciousness.
 
-That inference can be very strong, as with other humans, or much weaker, as with systems whose relation to subjective experience is unclear.
+The strength of the inference can vary substantially across candidate systems.
 
-So the real question is not “can consciousness be proven?” but:
+Accordingly, the operative question is not simply:
 
-How strong is the inference that this particular system is conscious?
+> Can consciousness be proven?
+
+It is:
+
+> **How strongly does the available evidence justify inferring consciousness in this particular system?**
+
+This is the basis of the repository's 0–100 confidence score.
+
+The score measures the **degree of epistemic justification for the inference**, not the amount of consciousness in the system.
