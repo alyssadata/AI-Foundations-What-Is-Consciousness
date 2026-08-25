@@ -54,29 +54,31 @@ A candidate's position in this queue is **not** its consciousness score and must
 
 1. **Lottery machine** — scored
 2. **Blanket**
-3. **Planet**
-4. **Star**
-5. **Flower**
-6. **Watch**
-7. **Scale**
-8. **Pocket calculator**
-9. **Printer**
-10. **Oven**
-11. **Thermostat**
-12. **Conventional non-autonomous car**
-13. **Fixed-rule computer program**
-14. **Simple reinforcement-learning agent**
-15. **Autonomous robot with sensors, memory, and goal pursuit**
-16. **Current stateless LLM session**
-17. **LLM with persistent memory / agent architecture**
-18. **Insect**
-19. **Fish**
-20. **Cat**
-21. **Dog**
-22. **Octopus**
-23. **Human under general anesthesia**
-24. **Human in a minimally conscious state**
-25. **Awake healthy adult human**
+3. **Lightbulb**
+4. **Planet**
+5. **Star**
+6. **Flower**
+7. **Watch**
+8. **Scale**
+9. **Pocket calculator**
+10. **Printer**
+11. **Television**
+12. **Oven**
+13. **Thermostat**
+14. **Conventional non-autonomous car**
+15. **Fixed-rule computer program**
+16. **Simple reinforcement-learning agent**
+17. **Autonomous robot with sensors, memory, and goal pursuit**
+18. **Current stateless LLM session**
+19. **LLM with persistent memory / agent architecture**
+20. **Insect**
+21. **Fish**
+22. **Cat**
+23. **Dog**
+24. **Octopus**
+25. **Human under general anesthesia**
+26. **Human in a minimally conscious state**
+27. **Awake healthy adult human**
 
 ## Queue Rule
 
