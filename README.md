@@ -30,7 +30,7 @@ The repository separates the question into distinct components:
 - [`inference-evidence-definition.md`](inference-evidence-definition.md) — why consciousness in other systems is inferred from observable evidence
 - [`inference-yes-or-no.md`](inference-yes-or-no.md) — evidence that shifts the inference toward or away from consciousness
 - [`confidence-score.md`](confidence-score.md) — 0–100 epistemic confidence framework
-- [`candidates.md`](candidates.md) — candidate systems to which the framework may be applied
+- [`candidates.md`](candidates.md) — candidate behaviors and preserved calibration records
 
 ---
 
@@ -49,6 +49,17 @@ The score asks:
 > **Given everything observable, how justified are we in inferring that subjective experience is present in this particular system?**
 
 See [`confidence-score.md`](confidence-score.md) for the full scale and boundary.
+
+---
+
+## Calibration Records
+
+### Candidate 001 — Lottery Machine
+
+**Score:** 0 / 100  
+**Preserved calibration constraint:** **Mere selection contributes 0 positive evidence of consciousness.**
+
+Full record: [`calibration/CANDIDATE_001_LOTTERY_MACHINE.md`](calibration/CANDIDATE_001_LOTTERY_MACHINE.md)
 
 ---
 
