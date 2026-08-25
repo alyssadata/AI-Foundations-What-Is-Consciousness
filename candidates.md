@@ -43,3 +43,14 @@ Each candidate behavior should be evaluated as **possible evidence within a larg
 The scoring question remains:
 
 > **Given everything observable, how justified are we in inferring that subjective experience is present in this particular system?**
+
+---
+
+## Calibration Records
+
+### Candidate 001 — Lottery Machine
+
+**Score:** 0 / 100  
+**Preserved constraint:** **Mere selection contributes 0 positive evidence of consciousness.**
+
+Full record: [`calibration/CANDIDATE_001_LOTTERY_MACHINE.md`](calibration/CANDIDATE_001_LOTTERY_MACHINE.md)
