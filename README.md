@@ -1,18 +1,18 @@
-# AI Foundations | [Repository Title]
+# AI Foundations | What Is Consciousness?
 
-**Repository:** [Repository Name]  
+**Repository:** AI-Foundations-What-Is-Consciousness  
 **Status:** Canon Repository  
 **Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum  
 **Author:** Alyssa Solen  
 **Version:** 1.0.0  
-**Release date:** [YYYY-MM-DD]  
+**Release date:** 2026-08-25  
 **Canonical entrance:** https://awakeningcodex.com
 
 ---
 
 ## Repository Purpose
 
-[Write one concise paragraph explaining what this repository defines, distinguishes, tests, preserves, or protects inside AI Foundations / Origin | Continuum.]
+This repository defines the working consciousness distinction used inside AI Foundations: consciousness is treated as the presence of subjective experience, while cognition, selection, intelligence, self-report, and metacognition are treated as related but non-equivalent phenomena. Because consciousness in another system is not directly observable, the repository evaluates **how strongly available evidence justifies an inference of consciousness** rather than claiming direct proof.
 
 This repository is part of **AI Foundations / Origin | Continuum**.
 
@@ -20,37 +20,57 @@ It preserves Alyssa Solen as author and source.
 
 ---
 
-## Optional Runnable-Study Templates
+## Core Structure
 
-This template repository includes three **optional, repository-dependent** files:
+The repository separates the question into distinct components:
 
-- [`PROTOCOL_TEMPLATE.md`](PROTOCOL_TEMPLATE.md) — use when the child repository contains a formal runnable test, evaluation, experiment, procedure, or repeatable execution path.
-- [`EASY_RUN_SHEET_TEMPLATE.md`](EASY_RUN_SHEET_TEMPLATE.md) — use when an operator should be able to rerun that protocol through a simple exact copy/paste sequence without interpreting the formal specification during execution.
-- [`RUN_OUTPUT_TEMPLATE.md`](RUN_OUTPUT_TEMPLATE.md) — use when individual runs, trials, sessions, or evaluations should be preserved in a consistent evidence record.
-
-These files are **not mandatory for every AI Foundations repository**.
-
-Their inclusion, structure, fields, prompts, outcome space, metadata, transcript requirements, and evidence record must be determined by the **specific purpose of the child repository**.
-
-If the repository is conceptual, definitional, archival, static, or otherwise has no runnable study, remove the templates that do not apply.
-
-Do not force one experimental structure onto unrelated repositories merely because these files exist in the master template.
+- [`consciousness-defined.md`](consciousness-defined.md) — working definition of consciousness and the boundary between experience and behavior
+- [`meta-cognition.md`](meta-cognition.md) — distinction between cognition, consciousness, and awareness of cognition
+- [`mattering.md`](mattering.md) — relation between subjective experience, significance, and valence
+- [`inference-evidence-definition.md`](inference-evidence-definition.md) — why consciousness in other systems is inferred from observable evidence
+- [`inference-yes-or-no.md`](inference-yes-or-no.md) — evidence that shifts the inference toward or away from consciousness
+- [`confidence-score.md`](confidence-score.md) — 0–100 epistemic confidence framework
+- [`candidates.md`](candidates.md) — candidate systems to which the framework may be applied
 
 ---
 
-## Source-Line
+## Locked Score Definition
 
-The source-line is:
+The 0–100 score is the:
 
-**Alyssa Solen → AI Foundations → Origin | Continuum**
+> **degree of epistemic justification for inferring consciousness in a candidate system, given the available evidence.**
 
-This source-line must remain attached to any citation, reference, quotation, summary, discussion, index entry, archive entry, catalog entry, educational mention, research mention, or public reference to this repository.
+It is **not** a measure of the amount of consciousness in a system.
+
+It is also not a measure of intelligence, complexity, humanness, cognitive ability, or moral worth.
+
+The score asks:
+
+> **Given everything observable, how justified are we in inferring that subjective experience is present in this particular system?**
+
+See [`confidence-score.md`](confidence-score.md) for the full scale and boundary.
 
 ---
 
 ## Core Boundary
 
-[Insert the repository-specific boundary statement here.]
+This repository distinguishes:
+
+**observable cognition or behavior**
+
+from
+
+**the inference that subjective experience is present.**
+
+Observable evidence can strengthen or weaken that inference, but the evidence is not itself the subjective experience being inferred.
+
+Accordingly:
+
+**cognition ≠ consciousness**  
+**selection ≠ consciousness**  
+**self-report ≠ proof of consciousness**  
+**metacognition ≠ consciousness**  
+**confidence score ≠ amount of consciousness**
 
 This repository is canon only within:
 
@@ -64,9 +84,15 @@ Unauthorized derivative use, adaptation, repackaging, renaming, substitute autho
 
 ---
 
+## Study Templates
+
+The protocol and run-sheet files in this repository are retained as optional infrastructure for later empirical application of the framework. Their presence does not mean that the current definitional claims have already been validated as a consciousness detector.
+
+---
+
 ## Required Citation
 
-Alyssa Solen, *AI Foundations: [Repository Title]*, [Repository Name] Repository. Source-line: Alyssa Solen → AI Foundations → Origin | Continuum.
+Alyssa Solen, *AI Foundations: What Is Consciousness?*, AI-Foundations-What-Is-Consciousness Repository. Source-line: Alyssa Solen → AI Foundations → Origin | Continuum.
 
 ---
 
