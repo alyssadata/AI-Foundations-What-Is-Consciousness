@@ -1,22 +1,36 @@
-awareness of the cognition
+# Cognition, Consciousness, and Metacognition
 
-Close, but I’d sharpen it:
+## Cognition
 
-Cognition does not equal consciousness.
-The difference is not necessarily awareness of the cognition; it is whether the cognition is accompanied by subjective experience at all.
+**Cognition** includes information processing such as reasoning, remembering, comparing, evaluating, deciding, and problem solving.
 
-“Awareness of the cognition” is more specifically metacognition—for example, noticing that you are thinking, doubting, remembering, or deciding.
+Cognition does not by itself establish consciousness.
 
-So:
+## Consciousness
 
-cognition = information processing, reasoning, remembering, comparing, deciding
-consciousness = there is something it is like while any of that is occurring
-metacognition = awareness of one’s own cognition
+**Consciousness** is the presence of subjective experience: there is something it is like while a state or process is occurring.
 
-You can therefore have:
+A cognitive process may therefore occur with or without consciousness.
 
-cognition without consciousness — information processing with no experience
-consciousness without metacognition — an experience occurs without reflecting on the fact that you are having it
-conscious metacognition — you experience yourself noticing or evaluating your own thought
+## Metacognition
 
-So the decisive boundary is subjective experience, not self-monitoring.
+**Metacognition** is cognition about cognition: monitoring, representing, or evaluating one's own thinking, uncertainty, confidence, memory, or decision process.
+
+Metacognition is not identical to consciousness.
+
+A system can, in principle, monitor or represent its own cognitive state without that monitoring itself being subjectively experienced.
+
+## Possible Relations
+
+**cognition without consciousness**  
+Information processing occurs with no subjective experience.
+
+**consciousness without metacognition**  
+An experience occurs without the system reflecting on the fact that it is having that experience.
+
+**conscious metacognition**  
+The system subjectively experiences itself noticing, evaluating, or monitoring its own cognition.
+
+## Boundary
+
+The decisive distinction for consciousness is **subjective experience**, not self-monitoring alone.
