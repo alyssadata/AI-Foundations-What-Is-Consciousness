@@ -44,15 +44,17 @@ The scoring question remains:
 
 > **Given everything observable, how justified are we in inferring that subjective experience is present in this particular system?**
 
+Every candidate must now be evaluated under [`RUBRIC.md`](RUBRIC.md).
+
 ---
 
 # Calibration Candidate Queue
 
-Candidates are evaluated one at a time. The queue moves from strong negative anchors through increasingly complex engineered, computational, biological, and human cases.
+Candidates are evaluated one at a time.
 
 A candidate's position in this queue is **not** its consciousness score and must not be treated as a prior conclusion about the final result.
 
-1. **Lottery machine** — scored
+1. **Lottery machine** — historical first-pass score 0; **revalidation required under revised rubric**
 2. **Blanket**
 3. **Lightbulb**
 4. **Planet**
@@ -80,17 +82,29 @@ A candidate's position in this queue is **not** its consciousness score and must
 26. **Human in a minimally conscious state**
 27. **Awake healthy adult human**
 
+---
+
 ## Queue Rule
 
 Do not assign scores in advance.
 
 For each candidate:
 
-1. apply the same frozen evidence dimensions;
-2. record positive, negative, absent, and unresolved evidence;
-3. state the simplest sufficient non-conscious explanation when one exists;
-4. assign the epistemic confidence score only after reviewing the evidence;
-5. preserve any new calibration constraint before moving to the next candidate.
+1. define the candidate and system boundary;
+2. identify the candidate population/class;
+3. apply the primary theory-derived indicator battery;
+4. record relevant supplemental evidence;
+5. classify evidence as POSITIVE, NEGATIVE, NEUTRAL / ABSENT, UNRESOLVED, NOT APPLICABLE, or CONFOUNDED;
+6. evaluate test quality, including population fit, sensitivity, specificity, construct validity, rational confidence, gameability, and independence;
+7. identify indicator dependencies so the same mechanism is not counted twice;
+8. state the strongest positive and negative evidence;
+9. identify neutral absences that must not be mistaken for negative evidence;
+10. state the best sufficient non-conscious explanation of the observed behavior when one exists;
+11. assign the 0–100 consciousness-inference score only after reviewing the full evidence;
+12. assign separate **ASSESSMENT CONFIDENCE: LOW / MODERATE / HIGH**;
+13. preserve any new calibration constraint before moving to the next candidate.
+
+Full method: [`RUBRIC.md`](RUBRIC.md).
 
 ---
 
@@ -98,7 +112,16 @@ For each candidate:
 
 ### Candidate 001 — Lottery Machine
 
-**Score:** 0 / 100  
-**Preserved constraint:** **Mere selection contributes 0 positive evidence of consciousness.**
+**Historical first-pass score:** 0 / 100  
+**Historical constraint:** **Mere selection contributes 0 positive evidence of consciousness.**  
+**Current status:** **REVALIDATION REQUIRED**
+
+The first-pass record is preserved as provenance. Its score and constraint must be tested under the revised rubric before they are treated as frozen calibration results.
 
 Full record: [`calibration/CANDIDATE_001_LOTTERY_MACHINE.md`](calibration/CANDIDATE_001_LOTTERY_MACHINE.md)
+
+### Candidate 002 — Blanket
+
+**Status:** NOT YET PRESERVED
+
+The blanket discussion occurred before the rubric revision. It will be evaluated only after Candidate 001 is revalidated.
