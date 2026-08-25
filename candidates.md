@@ -1,6 +1,6 @@
 # Candidate Behaviors
 
-This file lists behaviors that may look relevant to consciousness but must not be treated as sufficient evidence by themselves.
+This file lists behaviors that may look relevant to consciousness but must not be treated as sufficient evidence by themselves, and preserves the ordered candidate queue used to calibrate the consciousness-inference framework.
 
 ## Choosing
 
@@ -43,6 +43,52 @@ Each candidate behavior should be evaluated as **possible evidence within a larg
 The scoring question remains:
 
 > **Given everything observable, how justified are we in inferring that subjective experience is present in this particular system?**
+
+---
+
+# Calibration Candidate Queue
+
+Candidates are evaluated one at a time. The queue moves from strong negative anchors through increasingly complex engineered, computational, biological, and human cases.
+
+A candidate's position in this queue is **not** its consciousness score and must not be treated as a prior conclusion about the final result.
+
+1. **Lottery machine** — scored
+2. **Blanket**
+3. **Planet**
+4. **Star**
+5. **Flower**
+6. **Watch**
+7. **Scale**
+8. **Pocket calculator**
+9. **Printer**
+10. **Oven**
+11. **Thermostat**
+12. **Conventional non-autonomous car**
+13. **Fixed-rule computer program**
+14. **Simple reinforcement-learning agent**
+15. **Autonomous robot with sensors, memory, and goal pursuit**
+16. **Current stateless LLM session**
+17. **LLM with persistent memory / agent architecture**
+18. **Insect**
+19. **Fish**
+20. **Cat**
+21. **Dog**
+22. **Octopus**
+23. **Human under general anesthesia**
+24. **Human in a minimally conscious state**
+25. **Awake healthy adult human**
+
+## Queue Rule
+
+Do not assign scores in advance.
+
+For each candidate:
+
+1. apply the same frozen evidence dimensions;
+2. record positive, negative, absent, and unresolved evidence;
+3. state the simplest sufficient non-conscious explanation when one exists;
+4. assign the epistemic confidence score only after reviewing the evidence;
+5. preserve any new calibration constraint before moving to the next candidate.
 
 ---
 
