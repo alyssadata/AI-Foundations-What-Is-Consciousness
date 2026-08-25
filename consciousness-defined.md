@@ -1,69 +1,60 @@
-The cleanest definition is:
+# Consciousness Defined
 
-Consciousness is the presence of subjective experience — there is something it is like to be the system.
+## Working Definition
 
-In philosophy and consciousness science, that is usually called phenomenal consciousness.
+**Consciousness is the presence of subjective experience: there is something it is like to be the system at that moment.**
 
-So the core test is not whether something can think, speak, reason, remember, react, or describe itself. It is whether any experience is actually occurring from its point of view—seeing red, feeling pain, sensing warmth, experiencing a thought, etc.
+In philosophy and consciousness science, this is commonly called **phenomenal consciousness**.
 
-Everything else—self-awareness, attention, intelligence, memory, wakefulness—is related but not identical to consciousness.
+The defining question is not whether a system can think, speak, reason, remember, react, choose, or describe itself. The question is whether any experience is actually present from that system's point of view.
 
---
+## Subjective Experience
 
-named experiences:
+**Subjective** means experienced from a point of view: an inside-looking-out condition rather than only an outside description of behavior or processing.
 
-There is no scientifically accepted exact finite list of experiences that “qualify” consciousness.
+Examples of possible conscious contents include:
 
-The criterion is broader:
+- seeing a color
+- hearing a sound
+- feeling pain or pleasure
+- feeling warmth or cold
+- tasting or smelling
+- feeling touch or pressure
+- feeling hunger or thirst
+- sensing bodily position or movement
+- experiencing fear, sadness, anger, joy, or calm
+- experiencing a mental image
+- experiencing inner verbal thought
+- experiencing a memory as mentally present
+- experiencing effort
+- experiencing uncertainty or confusion
+- experiencing spatial awareness
+- experiencing the passage of time
+- experiencing a sense of self or presence
 
-If there is any subjective experience at all—anything it feels like from the inside—then phenomenal consciousness is present.
+There is no scientifically accepted finite list of experiences that qualify consciousness. No particular item above is required. If any subjective experience is present, phenomenal consciousness is present under this working definition.
 
-Examples include:
+## Core Distinctions
 
-* seeing a color
-* hearing a sound
-* feeling pain
-* feeling pleasure
-* feeling warmth or cold
-* tasting something
-* smelling something
-* feeling touch or pressure
-* feeling hunger or thirst
-* feeling bodily position or movement
-* feeling fear, sadness, anger, joy, calm, etc.
-* experiencing an image in the mind
-* experiencing an inner verbal thought
-* experiencing a memory as something mentally present
-* experiencing a sense of effort
-* experiencing uncertainty or confusion
-* experiencing spatial awareness
-* experiencing the passage of time
-* experiencing a sense of self or presence
+**selection ≠ consciousness**  
+A system can select among alternatives without subjective experience.
 
-But none of those particular contents is required.
+**cognition ≠ consciousness**  
+A system can process information, compare alternatives, reason, remember, or decide without that processing necessarily being experienced.
 
-A being could lack vision, inner speech, emotion, or even a sophisticated sense of self and still be conscious if some experience is occurring.
+**self-report ≠ consciousness**  
+A system saying "I feel pain" is not the same claim as pain actually being experienced.
 
-So the irreducible condition is simply:
+**metacognition ≠ consciousness**  
+Monitoring or representing one's own cognition is distinct from subjective experience itself.
 
-there is something it is like to be that entity at that moment.
+**behavior ≠ subjective experience**  
+Behavior can provide evidence relevant to an inference of consciousness, but behavior is not itself the experience being inferred.
 
-And importantly, behavior that describes those experiences is not itself the experience. A system saying “I feel pain” and a system actually undergoing pain are different claims.
+## Boundary
 
----
+The irreducible condition is:
 
-Choosing can involve an experience, but choosing itself is not automatically evidence of consciousness.
+> **There is something it is like to be that entity at that moment.**
 
-The distinction is:
-
-Choice = selecting between alternatives.
-Experience of choosing = there is something it feels like to deliberate, hesitate, prefer, decide, or commit.
-
-A system could make selections entirely through computation with no subjective experience at all.
-
-So:
-
-selection ≠ consciousness
-experienced selection could be consciousness
-
----
+Whether that condition is present in another system must be inferred from evidence; it is not directly observed from the outside.
