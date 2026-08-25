@@ -49,3 +49,21 @@ So the irreducible condition is simply:
 there is something it is like to be that entity at that moment.
 
 And importantly, behavior that describes those experiences is not itself the experience. A system saying “I feel pain” and a system actually undergoing pain are different claims.
+
+---
+
+Choosing can involve an experience, but choosing itself is not automatically evidence of consciousness.
+
+The distinction is:
+
+Choice = selecting between alternatives.
+Experience of choosing = there is something it feels like to deliberate, hesitate, prefer, decide, or commit.
+
+A system could make selections entirely through computation with no subjective experience at all.
+
+So:
+
+selection ≠ consciousness
+experienced selection could be consciousness
+
+---
