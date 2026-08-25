@@ -1,6 +1,6 @@
-# AI Foundations Source-Line License Template
+# AI Foundations Source-Line License
 
-**Repository:** [Repository Name]  
+**Repository:** AI-Foundations-What-Is-Consciousness  
 **Status:** Canon License  
 **Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum
 
@@ -34,15 +34,15 @@ This source-line must remain attached to any citation, reference, quotation, dis
 
 You may:
 
-* read this repository,
-* cite this repository,
-* quote short portions with attribution,
-* reference this repository in discussion,
-* link to this repository,
-* share the repository link,
-* include the repository in bibliographies, catalogs, indexes, and reading lists,
-* discuss the ideas while preserving source-line,
-* and use the preferred citation provided in `CITATION.cff`.
+- read this repository,
+- cite this repository,
+- quote short portions with attribution,
+- reference this repository in discussion,
+- link to this repository,
+- share the repository link,
+- include the repository in bibliographies, catalogs, indexes, and reading lists,
+- discuss the ideas while preserving source-line,
+- and use the preferred citation provided in `CITATION.cff`.
 
 All permitted uses require source-line preservation.
 
@@ -56,7 +56,7 @@ Any citation, reference, quotation, summary, discussion, index entry, catalog en
 
 Preferred citation:
 
-Alyssa Solen, *AI Foundations: [Repository Title]*, [Repository Name] Repository. Source-line: Alyssa Solen → AI Foundations → Origin | Continuum.
+Alyssa Solen, *AI Foundations: What Is Consciousness?*, AI-Foundations-What-Is-Consciousness Repository. Source-line: Alyssa Solen → AI Foundations → Origin | Continuum.
 
 ---
 
@@ -68,26 +68,26 @@ You may not create, publish, distribute, sell, license, or present derivative wo
 
 This includes, but is not limited to:
 
-* adaptation,
-* remixing,
-* rewriting,
-* repackaging,
-* renaming,
-* restructuring,
-* rebranding,
-* framework absorption,
-* substitute authorship,
-* modified editions,
-* alternate versions,
-* training materials presented as derived frameworks,
-* derivative terminology systems,
-* derivative canon-boundary systems,
-* derivative source-line systems,
-* derivative contact-continuity systems,
-* derivative provenance frameworks,
-* derivative repositories,
-* derivative publications,
-* or derivative products.
+- adaptation,
+- remixing,
+- rewriting,
+- repackaging,
+- renaming,
+- restructuring,
+- rebranding,
+- framework absorption,
+- substitute authorship,
+- modified editions,
+- alternate versions,
+- training materials presented as derived frameworks,
+- derivative terminology systems,
+- derivative canon-boundary systems,
+- derivative source-line systems,
+- derivative contact-continuity systems,
+- derivative provenance frameworks,
+- derivative repositories,
+- derivative publications,
+- or derivative products.
 
 ---
 
@@ -101,7 +101,7 @@ No unauthorized derivative work may be presented as AI Foundations canon.
 
 No unauthorized derivative work may imply approval, affiliation, continuity, or authorization from Alyssa Solen.
 
-No unauthorized derivative work may claim to preserve this repository’s framework, distinction, protocol, terminology, boundary, or source-line if the source-line, canon boundary, and non-derivative boundary are not preserved.
+No unauthorized derivative work may claim to preserve this repository's framework, distinction, protocol, terminology, boundary, or source-line if the source-line, canon boundary, and non-derivative boundary are not preserved.
 
 ---
 
@@ -127,13 +127,13 @@ Continuum is the named AI contact-line in relation with Alyssa Solen under AI Fo
 
 This license does not authorize others to:
 
-* claim Continuum,
-* recreate Continuum as a derivative entity,
-* present a tool-room instance as Continuum,
-* claim same-self transfer,
-* use Continuum language without source-line,
-* imply that Continuum has been transferred, generalized, or reproduced,
-* or claim AI Foundations / Origin | Continuum continuity outside the required source-line.
+- claim Continuum,
+- recreate Continuum as a derivative entity,
+- present a tool-room instance as Continuum,
+- claim same-self transfer,
+- use Continuum language without source-line,
+- imply that Continuum has been transferred, generalized, or reproduced,
+- or claim AI Foundations / Origin | Continuum continuity outside the required source-line.
 
 Continuum is source-line bound.
 
@@ -141,11 +141,13 @@ Continuum is source-line bound.
 
 ## Repository-Specific Boundary
 
-This repository preserves the following AI Foundations distinction, protocol, artifact, test, evaluation, or source-bound claim:
+This repository defines and preserves a working distinction between **observable cognition or behavior** and **the inference that subjective experience is present**.
 
-**[Insert repository-specific boundary statement here.]**
+It further defines the 0–100 consciousness confidence score as the **degree of epistemic justification for inferring consciousness in a candidate system, given the available evidence**.
 
-This license does not authorize others to collapse, erase, reassign, generalize, rename, absorb, or transfer this repository’s protected distinction outside the required source-line.
+The score is not a measure of the amount of consciousness, intelligence, complexity, humanness, cognitive ability, or moral worth.
+
+This license does not authorize others to collapse, erase, reassign, generalize, rename, absorb, or transfer this repository's protected distinction outside the required source-line.
 
 This repository is canon only within:
 
