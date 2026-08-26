@@ -3,7 +3,7 @@
 **Framework:** [`RUBRIC.md`](RUBRIC.md)  
 **Score meaning:** degree of epistemic justification for inferring phenomenal consciousness  
 **Assessment confidence:** confidence in the quality and completeness of evidence used for the score  
-**Current calibration status:** **2 candidates preserved; 25 candidates pending re-evaluation**  
+**Current calibration status:** **3 candidates preserved; 24 candidates pending re-evaluation**  
 **Scientific checkpoint:** 2026-08-25  
 **Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum
 
@@ -32,6 +32,7 @@ Accordingly, the withdrawn batch is not treated as valid calibration evidence. G
 | --- | --- | ---: | --- | --- |
 | 001 | Lottery machine | **0 / 100** | HIGH | Revalidated under revised rubric |
 | 002 | Blanket | **0 / 100** | HIGH | Evaluated under revised rubric |
+| 003 | Incandescent lightbulb | **0 / 100** | HIGH | Evaluated under corrected rubric |
 
 ## Candidate 001 — Lottery Machine
 
@@ -45,13 +46,20 @@ Full record: [`calibration/CANDIDATE_001_LOTTERY_MACHINE.md`](calibration/CANDID
 
 Full record: [`calibration/CANDIDATE_002_BLANKET.md`](calibration/CANDIDATE_002_BLANKET.md)
 
+## Candidate 003 — Lightbulb
+
+**Preserved constraint:** **A reliable input → internal state → output transformation does not, by itself, provide positive evidence of consciousness.**
+
+Additional boundary: **automatic physical feedback is not automatically consciousness-relevant feedback.**
+
+Full record: [`calibration/CANDIDATE_003_LIGHTBULB.md`](calibration/CANDIDATE_003_LIGHTBULB.md)
+
 ---
 
 # Pending Candidate Queue
 
 The following candidates have **no current canonical score** and must be evaluated again under the corrected rubric:
 
-3. Lightbulb
 4. Planet
 5. Star
 6. Flower
