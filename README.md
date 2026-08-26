@@ -1,7 +1,7 @@
 # AI Foundations | What Is Consciousness?
 
 **Repository:** AI-Foundations-What-Is-Consciousness  
-**Status:** **Active recalibration — Candidates 001–003 preserved; 004–027 withdrawn pending revalidation**  
+**Status:** **Active recalibration — Candidates 001–004 preserved; 005–027 withdrawn pending revalidation**  
 **Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum  
 **Author:** Alyssa Solen  
 **Version:** 1.0.0  
@@ -58,7 +58,8 @@ AI-Foundations-What-Is-Consciousness/
 │   └── calibration/
 │       ├── CANDIDATE_001_LOTTERY_MACHINE.md
 │       ├── CANDIDATE_002_BLANKET.md
-│       └── CANDIDATE_003_LIGHTBULB.md
+│       ├── CANDIDATE_003_LIGHTBULB.md
+│       └── CANDIDATE_004_PLANET.md
 └── templates/
     ├── PROTOCOL_TEMPLATE.md
     ├── EASY_RUN_SHEET_TEMPLATE.md
@@ -80,15 +81,16 @@ AI-Foundations-What-Is-Consciousness/
 
 ## Current Calibration State
 
-Three candidate results are currently preserved:
+Four candidate results are currently preserved:
 
 | Candidate | Score | Assessment confidence |
 | --- | ---: | --- |
 | Lottery machine | **0 / 100** | HIGH |
 | Blanket | **0 / 100** | HIGH |
 | Incandescent lightbulb | **0 / 100** | HIGH |
+| Planetary body as a whole | **0 / 100** | MODERATE |
 
-Candidate 003 has been re-derived under the corrected rubric and re-entered the preserved set. Candidates 004–027 currently have **no canonical numerical score**.
+Candidates 003 and 004 have been re-derived under the corrected rubric and re-entered the preserved set. Candidates 005–027 currently have **no canonical numerical score**.
 
 The initial rapid batch evaluation of Candidates 003–027 remains withdrawn as provenance; revalidation occurs one candidate at a time and does not reinstate the old batch values.
 
@@ -145,7 +147,7 @@ No score is assigned until the relevant indicators and tests are operationalized
 
 The framework is provisional and is not scientifically validated as a universal consciousness detector.
 
-At the current state, Candidates 001–003 have preserved numerical calibration results. The 0–100 score is an epistemic confidence index, not an empirical probability or an amount of consciousness.
+At the current state, Candidates 001–004 have preserved numerical calibration results. The 0–100 score is an epistemic confidence index, not an empirical probability or an amount of consciousness.
 
 ---
 
