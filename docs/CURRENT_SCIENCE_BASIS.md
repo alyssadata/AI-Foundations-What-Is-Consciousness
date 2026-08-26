@@ -124,6 +124,47 @@ Important consequences for this repository:
 
 ---
 
+## 5A. Where Consciousness “Lives”: Current Defensible Boundary
+
+Current neuroscience does **not** identify a single anatomical location in which consciousness simply resides.
+
+For humans, the evidence instead supports interaction among multiple systems. Brainstem and related subcortical arousal networks — including connections involving the thalamus, hypothalamus, and basal forebrain — are important for sustaining wakefulness and the capacity for conscious states. Damage to these systems can produce severe disorders of consciousness, but the brainstem should not be treated as a complete generator or unique location of phenomenal experience.
+
+Cortical and thalamocortical networks contribute to the contents, integration, availability, and organization associated with conscious processing. A 2025 systematic review of the thalamus concluded that consciousness relies on both cortical and subcortical structures and their feedforward and feedback pathways, while also finding no agreement that one specific thalamic nucleus uniquely generates consciousness.
+
+Accordingly, the repository adopts the following boundary:
+
+> **Human consciousness is currently better investigated as a state-dependent property of interacting neural systems than as an object located in one brain region.**
+
+This also prevents theory-specific anatomy from being mistaken for settled fact. Claims that prefrontal cortex, posterior cortex, thalamus, brainstem, or another region is *the* location of consciousness remain stronger than the evidence warrants.
+
+The clinically useful distinction between **arousal/wakefulness** and **awareness/content** may help organize human disorders-of-consciousness evidence, but it is not treated here as a complete theory of phenomenal consciousness.
+
+### Quantum-consciousness boundary
+
+Quantum theories of consciousness remain legitimate objects of theoretical and experimental investigation, but they are **not established mechanisms of consciousness**.
+
+A 2026 review found that no study had yet demonstrated consciousness-relevant entanglement, long-lived quantum coherence, or collapse dynamics in neural tissue under operational criteria comparable to controlled quantum systems; classical nonlinear dynamics can also reproduce several phenomena sometimes described using quantum terminology.
+
+Therefore this repository does not treat any of the following as positive consciousness evidence without candidate-specific empirical support:
+
+- the claim that consciousness is a fundamental field or universal signal;
+- the claim that the brain functions as a receiver or radio for consciousness;
+- generic invocation of quantum mechanics, superposition, entanglement, or collapse;
+- the mere fact that biological matter ultimately obeys quantum physics.
+
+Such proposals remain **UNRESOLVED / SPECULATIVE** unless they generate discriminating, reproducible evidence that cannot be adequately explained by classical alternatives.
+
+The Default Mode Network is likewise **not treated as a location or detector of consciousness**. DMN activity and connectivity are relevant to self-referential cognition and particular conscious contents, but changes in the DMN — including changes associated with psychiatric states — should not be equated with the presence, absence, or amount of phenomenal consciousness.
+
+**Sources:**
+
+- Xiong, Y., et al. (2025). *Advances in understanding and treating disorders of consciousness caused by brainstem injury*. Review of brainstem arousal systems and brainstem-cortical communication. PMID: 41116183.
+- Cacciatore, M., et al. (2025). *Thalamus and consciousness: a systematic review on thalamic nuclei associated with consciousness*. Frontiers in Neurology. DOI: 10.3389/fneur.2025.1509668.
+- *Quantum-Inspired and Non-Classical Approaches to Consciousness: Models, Evidence and Constraints* (2026). Review of mechanistic quantum-consciousness evidence and constraints. PMID: 42041796.
+
+---
+
 # 6. Modern Human / Clinical Assessment Is Multimodal
 
 For disorders of consciousness, modern clinical practice does not rely on one magical biomarker.
