@@ -23,6 +23,12 @@ Because another system's subjective experience is not directly observable, the r
 
 The method is multi-theory, population-aware, evidence-quality constrained, non-additive, and explicit about uncertainty.
 
+### Origin and external grounding
+
+**This project and its core inferential/calibration architecture were independently developed within AI Foundations before the repository's formal literature-grounding pass.** Contemporary literature is incorporated afterward for corroboration, correction, theory mapping, and established measurement methods; it does not retroactively become the source of independently originated framework elements.
+
+See [`docs/ORIGIN_AND_PROVENANCE.md`](docs/ORIGIN_AND_PROVENANCE.md) for the timestamped Git chronology and authorship boundary.
+
 ---
 
 ## Repository Structure
@@ -35,6 +41,7 @@ AI-Foundations-What-Is-Consciousness/
 ├── docs/
 │   ├── README.md
 │   ├── REPORT.md
+│   ├── ORIGIN_AND_PROVENANCE.md
 │   ├── consciousness-defined.md
 │   ├── subjective-defined.md
 │   ├── thinking-definition.md
@@ -61,6 +68,7 @@ AI-Foundations-What-Is-Consciousness/
 
 ### Navigation
 
+- [`docs/ORIGIN_AND_PROVENANCE.md`](docs/ORIGIN_AND_PROVENANCE.md) — independent-origin chronology and literature-role boundary
 - [`docs/README.md`](docs/README.md) — documentation index
 - [`docs/REPORT.md`](docs/REPORT.md) — current synthesis and methodology corrections
 - [`docs/RUBRIC.md`](docs/RUBRIC.md) — consciousness-inference rubric
@@ -83,28 +91,6 @@ Current preserved calibration results use ordinal inference bands:
 | Blanket | **NO CREDIBLE SUPPORT** | HIGH |
 | Operational anesthetic negative-control interval | **LIMITED SUPPORT** | MODERATE |
 | Awake healthy adult human | **VERY STRONG SUPPORT** | HIGH |
-
-The anesthesia control is narrowly defined by convergent evidence and is **not** equivalent to generic behavioral unresponsiveness under all anesthesia. Disconnected conscious experience can persist during anesthesia.
-
-The awake-versus-anesthesia comparison provides a within-human **discrimination test** rather than only a low-end floor.
-
-Candidates 003–024 and 026 remain pending evaluation under the corrected rubric.
-
----
-
-## Inference Bands
-
-The framework uses five ordered evidence bands:
-
-**NO CREDIBLE SUPPORT**  
-**LIMITED SUPPORT**  
-**MIXED / INDETERMINATE**  
-**STRONG SUPPORT**  
-**VERY STRONG SUPPORT**
-
-These describe **epistemic support for an inference**, not an amount or percentage of consciousness.
-
-See [`docs/inference-bands.md`](docs/inference-bands.md).
 
 ---
 
@@ -133,8 +119,7 @@ See [`docs/meta-cognition.md`](docs/meta-cognition.md) and [`docs/RUBRIC.md`](do
 **metacognition ≠ consciousness**  
 **confidence language ≠ metacognitive sensitivity**  
 **intelligence ≠ consciousness**  
-**complexity ≠ consciousness**  
-**inference band ≠ amount of consciousness**
+**complexity ≠ consciousness**
 
 ---
 
@@ -159,7 +144,7 @@ No inference band is assigned until the relevant indicators and tests are operat
 
 The framework is provisional and is not scientifically validated as a universal consciousness detector.
 
-The current calibration establishes a low-end floor, a high positive anchor, and an initial within-human state discrimination contrast. It does not establish necessary and sufficient conditions for consciousness.
+The current output is an ordinal evidential inference band, not a probability or an amount of consciousness.
 
 ---
 
