@@ -1,7 +1,7 @@
 # Consciousness-Inference Rubric
 
 **Repository:** AI-Foundations-What-Is-Consciousness  
-**Status:** PROVISIONAL — Candidates 001 and 002 preserved; 003–027 withdrawn pending revalidation; framework remains unvalidated  
+**Status:** PROVISIONAL — Candidates 001–003 preserved; 004–027 withdrawn pending revalidation; framework remains unvalidated  
 **Revision date:** 2026-08-25  
 **Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum
 
@@ -402,32 +402,25 @@ Before a score is preserved, record:
 
 # 10. Calibration Status
 
-An initial rapid batch evaluation of Candidates 003–027 was **withdrawn**
-following the Type 1 / Type 2 metacognition correction. Those candidates
-currently have **no canonical numerical score**. The withdrawn values remain
-visible only in Git history as provenance and must not be treated as current
-results.
+The initial rapid batch evaluation of Candidates 003–027 remains **withdrawn** following the Type 1 / Type 2 metacognition correction. Those withdrawn values remain visible only in Git history as provenance and must not be treated as current results.
 
-Two calibration results are preserved:
+Candidate 003 has now been **re-derived from the beginning under the corrected rubric** and re-enters the preserved set on the basis of that new record. This does not reinstate its withdrawn batch value or any other withdrawn candidate.
 
-| Candidate             | Score       | Assessment confidence |
-| --------------------- | ----------- | --------------------- |
-| 001 — Lottery machine | **0 / 100** | HIGH                  |
-| 002 — Blanket         | **0 / 100** | HIGH                  |
+Three calibration results are preserved:
 
-Preserved results do not validate the rubric and do not convert the 0–100
-index into an empirical probability scale.
+| Candidate                    | Score       | Assessment confidence |
+| ---------------------------- | ----------- | --------------------- |
+| 001 — Lottery machine        | **0 / 100** | HIGH                  |
+| 002 — Blanket                | **0 / 100** | HIGH                  |
+| 003 — Incandescent lightbulb | **0 / 100** | HIGH                  |
 
-Future revisions must preserve provenance. When a methodological correction
-changes how an indicator is interpreted, affected candidate records are marked
-for revalidation rather than silently rewritten as though they had been scored
-under the newer method.
+Candidates 004–027 currently have **no canonical numerical score** and remain pending revalidation.
 
-The Type 1 / Type 2 metacognition clarification is such a correction, and the
-withdrawal of Candidates 003–027 is its application. Any candidate record that
-relied materially on metacognitive evidence must be re-derived under the
-operational standard in HOT-2 and HOT-3 before it re-enters the preserved set
-or appears in a frozen release.
+Preserved results do not validate the rubric and do not convert the 0–100 index into an empirical probability scale.
+
+Future revisions must preserve provenance. When a methodological correction changes how an indicator is interpreted, affected candidate records are marked for revalidation rather than silently rewritten as though they had been scored under the newer method.
+
+The Type 1 / Type 2 metacognition clarification is such a correction. Any withdrawn candidate must be re-derived under the operational standard in HOT-2 and HOT-3, where applicable, before it re-enters the preserved set or appears in a frozen release.
 
 ---
 
