@@ -28,7 +28,7 @@ Depending on candidate class and evidence quality, positive evidence can include
 - selective information access through a limited-capacity workspace;
 - broad/global availability of selected information;
 - state-dependent attentional control;
-- metacognitive monitoring of the reliability or source of representations;
+- metacognitive monitoring with demonstrated Type 2 sensitivity;
 - metacognition that causally changes belief, decision, or action;
 - predictive attention-state modeling;
 - predictive coding and error-driven updating;
@@ -57,7 +57,7 @@ Examples include:
 - causal intervention showing that an alleged consciousness-supporting mechanism is inert, epiphenomenal, or unnecessary for the relevant capacity;
 - apparent consciousness-like behavior that disappears when superficial cue-following, pattern matching, scripting, or imitation is controlled for;
 - strong evidence that a claimed internal indicator is not actually implemented;
-- strong evidence that the candidate lacks the type of integrated, recurrent, causal, or other organization required by the theories being applied, when those theories are genuinely relevant to the candidate class.
+- strong state-dependent degradation of validated consciousness-relevant measures in a population where those measures have appropriate construct validity.
 
 ---
 
@@ -82,7 +82,7 @@ A conscious system could in principle lack several of these properties.
 
 `Awareness` is not treated as a free-standing evidence category.
 
-If awareness means phenomenal awareness, it is the target phenomenon and scoring it would be circular.
+If awareness means phenomenal awareness, it is the target phenomenon and treating it as an indicator would be circular.
 
 If awareness means functional access, attention, metacognition, self-monitoring, or availability for action, it must be recorded under the corresponding operational indicator.
 
@@ -131,6 +131,6 @@ Indicators that share the same underlying mechanism must not be counted as indep
 
 This file defines evidential direction only.
 
-The degree of epistemic justification is represented separately by the 0–100 framework in [`confidence-score.md`](confidence-score.md), and the quality/completeness of the evidence is reported separately as **LOW / MODERATE / HIGH assessment confidence**.
+The degree of epistemic support is represented separately by the ordinal framework in [`inference-bands.md`](inference-bands.md), and the quality/completeness of the assessment is reported separately as **LOW / MODERATE / HIGH assessment confidence**.
 
 The current external science basis is preserved in [`CURRENT_SCIENCE_BASIS.md`](CURRENT_SCIENCE_BASIS.md).

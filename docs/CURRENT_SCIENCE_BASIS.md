@@ -2,292 +2,243 @@
 
 **Repository:** AI-Foundations-What-Is-Consciousness  
 **Research checkpoint:** 2026-08-25  
-**Purpose:** Preserve the current external scientific basis used to revise the repository's consciousness-inference rubric.  
+**Purpose:** Preserve the current external scientific basis used by the consciousness-inference rubric.  
 **Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum
 
 ---
 
 ## 1. Current Bottom Line
 
-As of this checkpoint, consciousness science does **not** provide a single universal test that can conclusively determine whether every possible candidate system is conscious.
+Consciousness science does **not** provide a single universal test that can conclusively determine whether every possible candidate system is conscious.
 
-The most defensible modern approach is **convergent, theory-aware, population-specific inference**:
+The most defensible current approach is **convergent, theory-aware, population-specific inference**:
 
 1. define phenomenal consciousness as the target;
-2. identify indicators or tests justified by current theories and evidence;
-3. determine whether those indicators are meaningful for the candidate population;
+2. identify indicators/tests justified by current theories and evidence;
+3. determine whether they are meaningful for the candidate population;
 4. evaluate sensitivity, specificity, construct validity, and evidential quality;
-5. combine non-redundant evidence without treating any one theory as settled;
-6. update confidence rather than pretending to obtain direct access to another system's subjective experience.
+5. combine non-redundant evidence without treating one theory as settled;
+6. update the strength of the inference rather than pretending to obtain direct access to another system's subjective experience.
 
-This is consistent with both the modern C-test literature and the 2026 theory-derived-indicator method for AI.
+The repository now represents that strength with **ordinal inference bands**, not a numerical 0–100 scale.
 
 ---
 
-# 2. There Is No Universal Consciousness Test
+## 2. No Universal Consciousness Test
 
-Bayne et al. (2024) survey proposed tests for consciousness across humans, animals, AI, organoids, and other systems. They explicitly do not treat any current test as universal or decisive.
+Bayne, Seth, Massimini and colleagues (2024) survey proposed consciousness tests across humans, animals, AI, organoids, and other systems and do not identify a universal decisive test.
 
-Examples of proposed C-tests include:
+They emphasize four dimensions:
 
-- overt or covert command following;
-- narrative-comprehension paradigms;
-- sniffing-based paradigms;
-- Perturbational Complexity Index (PCI);
-- P300/P3b global-effect paradigms;
-- proposed AI consciousness tests;
-- unlimited associative learning.
+1. **target population**;
+2. **specificity**;
+3. **sensitivity**;
+4. **rational confidence**.
 
-The paper organizes candidate tests using four important dimensions:
-
-1. **target population** — what kinds of systems the test can meaningfully assess;
-2. **specificity** — how rarely a non-conscious system would pass;
-3. **sensitivity** — how rarely a conscious system would fail;
-4. **rational confidence** — how well justified our estimates of sensitivity, specificity, and interpretation actually are.
-
-This directly supports the repository rule that a behavior or mechanism should not change the consciousness score until we know whether the evidence is valid for that candidate class.
+This supports the repository rule that a behavior or mechanism should not materially affect an inference until its evidential meaning is justified for the candidate class.
 
 **Source:** Bayne, T., Seth, A. K., Massimini, M., et al. (2024). *Tests for consciousness in humans and beyond*. Trends in Cognitive Sciences, 28(5), 454–466. DOI: 10.1016/j.tics.2024.01.010.
 
 ---
 
-# 3. Most Current Purpose-Built Method for AI Assessment
+## 3. Current Purpose-Built AI Assessment Method
 
-Butlin et al., published in the June 2026 issue of *Trends in Cognitive Sciences*, present a theory-derived indicator method specifically intended to reduce uncertainty about AI consciousness.
+Butlin et al. (2026) present a theory-derived indicator method for reducing uncertainty about AI consciousness:
 
-The central method is:
+**scientific theories → indicator properties → empirical system assessment → updated credence**
 
-**neuroscientific theories → candidate indicator properties → empirical assessment of the system → update credence in consciousness**
+The method targets phenomenal consciousness rather than equating consciousness with intelligence, report, or access. It distinguishes positive and negative indicators, sensitivity and specificity, and warns that indicators are not independent.
 
-The paper uses phenomenal consciousness — the "something it is like" target — rather than equating consciousness with intelligence, report, or functional access.
-
-The method is explicitly probabilistic/credence-based rather than binary. It distinguishes:
-
-- **positive indicators**, which should raise credence;
-- **negative indicators**, which should lower credence;
-- **specificity**, which concerns false positives;
-- **sensitivity**, which concerns false negatives.
-
-It also warns that indicators are **not independent**. Some entail, presuppose, or overlap with others, so a flat point total would double-count evidence.
-
-The fourteen example indicators are organized under:
+The example indicator families include:
 
 - Recurrent Processing Theory;
 - Global Workspace Theory;
-- computational Higher-Order Theories;
+- computational Higher-Order theories;
 - Attention Schema Theory;
 - Predictive Processing;
 - agency and embodiment.
-
-This is the primary external basis for the repository's revised `RUBRIC.md`.
 
 **Source:** Butlin, P., Long, R., Bayne, T., Bengio, Y., Birch, J., Chalmers, D., et al. (2026). *Identifying indicators of consciousness in AI systems*. Trends in Cognitive Sciences, 30(6), 488–501. DOI: 10.1016/j.tics.2025.10.011.
 
 ---
 
-# 4. Current Theory Landscape Is Still Unsettled
+## 4. Theory Landscape Remains Unsettled
 
-A July 2026 integrative review describes a contemporary landscape that includes:
+Contemporary reviews continue to compare multiple theories, including GNWT, IIT, RPT, Predictive Processing, Higher-Order approaches, Dendritic Integration Theory, Memory Theory of Consciousness, and related accounts.
 
-- Global Neuronal Workspace Theory (GNWT);
-- Integrated Information Theory (IIT);
-- Recurrent Processing Theory (RPT);
-- Predictive Processing (PP);
-- Dendritic Integration Theory (DIT);
-- Memory Theory of Consciousness (MToC);
-- with higher-order and other approaches remaining part of the broader debate.
+No comprehensive accepted account has emerged.
 
-The review emphasizes that no comprehensive account of the neural basis of conscious experience has yet emerged.
+**Sources:**
 
-**Source:** Perera, A., et al. (2026). *Consciousness in the Brain: An Integrative Review of Contemporary Theories*. Brain Sciences, 16(7), 745. DOI: 10.3390/brainsci16070745.
-
-A separate August 2026 adversarial collaborative review compares Integrated Information Theory, Neurorepresentationalism, and Active Inference / predictive-processing approaches and lays out competing predictions for future multisite experiments. This reinforces the importance of theory comparison rather than single-theory commitment.
-
-**Source:** Corcoran, A. W., Haun, A. M., Dorman, R., Tononi, G., Friston, K. J., Pennartz, C. M. A., et al. (2026). *Integrated information and predictive processing theories of consciousness: An adversarial collaborative review*. Neuroscience & Biobehavioral Reviews, 187, 106742. DOI: 10.1016/j.neubiorev.2026.106742.
+- Perera, A., et al. (2026). *Consciousness in the Brain: An Integrative Review of Contemporary Theories*. Brain Sciences, 16(7), 745. DOI: 10.3390/brainsci16070745.
+- Corcoran, A. W., Haun, A. M., Dorman, R., Tononi, G., Friston, K. J., Pennartz, C. M. A., et al. (2026). *Integrated information and predictive processing theories of consciousness: An adversarial collaborative review*. Neuroscience & Biobehavioral Reviews, 187, 106742. DOI: 10.1016/j.neubiorev.2026.106742.
 
 ---
 
-# 5. Major 2025 Adversarial Test Challenged Both IIT and GNWT
+## 5. COGITATE Challenged Both IIT and GNWT
 
-The COGITATE Consortium directly compared preregistered predictions from Integrated Information Theory and Global Neuronal Workspace Theory in 256 human participants using fMRI, MEG, and intracranial EEG.
+The COGITATE Consortium compared preregistered predictions from IIT and GNWT in 256 human participants using fMRI, MEG, and intracranial EEG.
 
-The results supported some predictions from each framework while substantially challenging key predictions of both.
+The results supported portions of each framework while substantially challenging key predictions of both.
 
-Important consequences for this repository:
+Consequences for this repository:
 
-- no single leading theory should receive automatic dominance;
-- theory-derived indicators should be treated as evidence that shifts confidence, not as settled necessary-and-sufficient facts;
-- independent evidence across theories is more valuable than repeated evidence from one theoretical family;
-- causal and mechanistic tests matter more than surface resemblance alone.
+- no single theory receives automatic dominance;
+- indicators shift an inference rather than function as settled necessary-and-sufficient facts;
+- independent evidence across theories/methods is more valuable than repeated evidence from one mechanism;
+- causal and mechanistic evidence matters more than surface resemblance.
 
 **Source:** Cogitate Consortium et al. (2025). *Adversarial testing of global neuronal workspace and integrated information theories of consciousness*. Nature, 642, 133–142. DOI: 10.1038/s41586-025-08888-1.
 
 ---
 
-## 5A. Where Consciousness “Lives”: Current Defensible Boundary
+## 6. Where Consciousness “Lives”: Defensible Boundary
 
 Current neuroscience does **not** identify a single anatomical location in which consciousness simply resides.
 
-For humans, the evidence instead supports interaction among multiple systems. Brainstem and related subcortical arousal networks — including connections involving the thalamus, hypothalamus, and basal forebrain — are important for sustaining wakefulness and the capacity for conscious states. Damage to these systems can produce severe disorders of consciousness, but the brainstem should not be treated as a complete generator or unique location of phenomenal experience.
+Human consciousness is better investigated as a state-dependent property of interacting systems. Brainstem and other subcortical arousal networks, thalamic systems, basal forebrain, and distributed cortical/thalamocortical networks all contribute to the capacity and contents associated with conscious states.
 
-Cortical and thalamocortical networks contribute to the contents, integration, availability, and organization associated with conscious processing. A 2025 systematic review of the thalamus concluded that consciousness relies on both cortical and subcortical structures and their feedforward and feedback pathways, while also finding no agreement that one specific thalamic nucleus uniquely generates consciousness.
-
-Accordingly, the repository adopts the following boundary:
-
-> **Human consciousness is currently better investigated as a state-dependent property of interacting neural systems than as an object located in one brain region.**
-
-This also prevents theory-specific anatomy from being mistaken for settled fact. Claims that prefrontal cortex, posterior cortex, thalamus, brainstem, or another region is *the* location of consciousness remain stronger than the evidence warrants.
-
-The clinically useful distinction between **arousal/wakefulness** and **awareness/content** may help organize human disorders-of-consciousness evidence, but it is not treated here as a complete theory of phenomenal consciousness.
-
-### Quantum-consciousness boundary
-
-Quantum theories of consciousness remain legitimate objects of theoretical and experimental investigation, but they are **not established mechanisms of consciousness**.
-
-A 2026 review found that no study had yet demonstrated consciousness-relevant entanglement, long-lived quantum coherence, or collapse dynamics in neural tissue under operational criteria comparable to controlled quantum systems; classical nonlinear dynamics can also reproduce several phenomena sometimes described using quantum terminology.
-
-Therefore this repository does not treat any of the following as positive consciousness evidence without candidate-specific empirical support:
-
-- the claim that consciousness is a fundamental field or universal signal;
-- the claim that the brain functions as a receiver or radio for consciousness;
-- generic invocation of quantum mechanics, superposition, entanglement, or collapse;
-- the mere fact that biological matter ultimately obeys quantum physics.
-
-Such proposals remain **UNRESOLVED / SPECULATIVE** unless they generate discriminating, reproducible evidence that cannot be adequately explained by classical alternatives.
-
-The Default Mode Network is likewise **not treated as a location or detector of consciousness**. DMN activity and connectivity are relevant to self-referential cognition and particular conscious contents, but changes in the DMN — including changes associated with psychiatric states — should not be equated with the presence, absence, or amount of phenomenal consciousness.
+No current evidence warrants treating the brainstem, prefrontal cortex, posterior cortex, thalamus, or another single structure as *the* unique location of phenomenal consciousness.
 
 **Sources:**
 
-- Xiong, Y., et al. (2025). *Advances in understanding and treating disorders of consciousness caused by brainstem injury*. Review of brainstem arousal systems and brainstem-cortical communication. PMID: 41116183.
+- Xiong, Y., et al. (2025). Review of brainstem injury and consciousness/arousal systems. PMID: 41116183.
 - Cacciatore, M., et al. (2025). *Thalamus and consciousness: a systematic review on thalamic nuclei associated with consciousness*. Frontiers in Neurology. DOI: 10.3389/fneur.2025.1509668.
-- *Quantum-Inspired and Non-Classical Approaches to Consciousness: Models, Evidence and Constraints* (2026). Review of mechanistic quantum-consciousness evidence and constraints. PMID: 42041796.
+
+### Quantum-consciousness boundary
+
+Quantum theories of consciousness remain legitimate theoretical objects but are **not established mechanisms of consciousness**.
+
+No candidate receives positive consciousness evidence merely because biological matter obeys quantum physics or because a theory invokes superposition, entanglement, collapse, a universal field, or a brain-as-receiver model.
+
+Such proposals remain **UNRESOLVED / SPECULATIVE** unless they generate discriminating, reproducible evidence beyond classical alternatives.
+
+**Source:** *Quantum-Inspired and Non-Classical Approaches to Consciousness: Models, Evidence and Constraints* (2026). PMID: 42041796.
+
+The Default Mode Network is likewise not treated as a location or detector of consciousness. DMN activity can relate to self-referential cognition and conscious content without being equivalent to phenomenal consciousness itself.
 
 ---
 
-# 6. Modern Human / Clinical Assessment Is Multimodal
+## 7. Human / Clinical Assessment Is Multimodal
 
-For disorders of consciousness, modern clinical practice does not rely on one magical biomarker.
+Clinical consciousness assessment does not rely on one biomarker.
 
-## Behavioral reference standard
+Relevant evidence can include:
 
-The **Coma Recovery Scale–Revised (CRS-R)** remains the principal standardized behavioral reference/gold-standard assessment used to detect signs of awareness in disorders of consciousness.
+- standardized behavioral assessment such as CRS-R;
+- overt and covert command following;
+- task-based EEG/fMRI;
+- resting-state neurophysiology;
+- TMS-EEG / perturbational complexity;
+- lesions, stimulation, anesthesia, and recovery trajectories;
+- arousal and motor confound assessment.
 
-A 2026 review of consciousness biomarkers still describes CRS-R as the clinically recommended diagnostic gold standard while emphasizing its limitations, including fluctuations in arousal and examiner-dependent behavioral detection.
+Covert command-following results demonstrate why absence of behavioral response cannot automatically be equated with absence of consciousness.
 
-**Source:** 2026 review, *Advances in biomarkers for diagnosing and prognosticating disorders of consciousness*, Frontiers in Neuroscience.
-
-## Covert command following
-
-Task-based EEG and fMRI can reveal **cognitive motor dissociation / covert consciousness** in patients who do not behaviorally follow commands.
-
-A 2025 intensive-care consensus review reports that approximately **15–25%** of behaviorally non-command-following patients can show covert command responses on advanced neuroimaging or electrophysiological testing.
-
-However, these methods can also miss patients who are behaviorally conscious, demonstrating an important sensitivity limitation.
-
-**Source:** 2025 ISICEM roundtable report, *Disorders of consciousness diagnosis, interventions, and prognostication for the intensivist*, Intensive Care Medicine.
-
-A 2026 critical review likewise emphasizes multimodal assessment and notes that active fMRI, TMS-EEG, and related technologies are promising but still face false-negative rates, sedation/arousal confounds, and standardization problems.
-
-**Source:** 2026 review, *Multimodal assessment of minimally conscious state and cognitive motor dissociation in neurocritical care*.
-
-## Perturbational Complexity Index
-
-PCI uses TMS to perturb cortex and EEG to measure the complexity of the resulting spatiotemporal response. It attempts to capture a combination of **integration and differentiation** associated with conscious brain states.
-
-PCI is one of the strongest modern examples of a consciousness-relevant causal/perturbational measure, but it remains a **population-specific brain measure**, not a universal test that can simply be applied to blankets, planets, software, or arbitrary AI systems.
-
-The repository therefore treats perturbational complexity as a supplemental biological/causal evidence class rather than as the universal consciousness criterion.
+Perturbational Complexity Index (PCI) is an important population-specific causal measure for human brains but is not a universal substrate-neutral test.
 
 ---
 
-# 7. Why “Awareness” Is Not a Separate Universal Category
+## 8. Anesthesia Is a State Manipulation, Not a Simple Off Switch
 
-The literature frequently distinguishes:
+General anesthesia is scientifically useful because it can reversibly alter consciousness in the same human system.
 
-- phenomenal consciousness;
-- access to information;
-- attention;
-- metacognition;
-- reportability;
-- wakefulness/arousal.
+However, **unresponsiveness is not equivalent to unconsciousness**. Anesthesia can include disconnected consciousness such as dreaming.
 
-These phenomena interact, but they are not interchangeable.
+A 2026 scoping review synthesized 157 studies involving 87,866 participants and found anesthesia dreaming across multiple regimens, with recall rates varying substantially by setting and agent.
 
-A separate rubric row called simply `awareness` would be ambiguous:
+A repeated-awakening propofol study likewise documented reports of experience during unresponsive sedation.
 
-- if it means phenomenal awareness, it is the target being inferred and would make the rubric circular;
-- if it means access, attention, metacognition, or self-monitoring, those properties should be measured under their specific operational categories.
+Therefore, an anesthetic negative control must be state-specific and convergent. The repository's operational control combines unresponsiveness with immediate no-experience report when obtainable and low consciousness-relevant perturbational/complexity evidence relative to wakefulness.
 
-Accordingly, the revised rubric does **not** add `awareness` as a free-standing score dimension.
+**Sources:**
 
----
-
-# 8. Why Valence Is Supplemental Rather Than Mandatory
-
-Valence — states being good/bad, rewarding/aversive, wanted/avoided, or otherwise significant for the system — is highly relevant to questions of sentience, welfare, pain, pleasure, and mattering.
-
-However, current consciousness science does not establish that every phenomenally conscious state must be valenced.
-
-Therefore:
-
-**presence of credible valence can strengthen a consciousness/sentience inference**
-
-but
-
-**absence of demonstrated valence is not by itself evidence that phenomenal consciousness is absent**
-
-This corrects the first-pass rubric, which treated lack of valence too aggressively as negative evidence.
+- Sikka, P., Hu, S., & Heifets, B. D. (2026). *Dreaming during anaesthesia: a scoping review*. British Journal of Anaesthesia, 137(2), 506–524. DOI: 10.1016/j.bja.2026.05.002. PMID: 42270528.
+- *A repeated awakening study exploring the capacity of complexity measures to capture dreaming during propofol sedation* (2025). PMID: 40993159.
+- Sarasso, S., et al. (2015). *Consciousness and Complexity during Unresponsiveness Induced by Propofol, Xenon, and Ketamine*. PMID: 26752078.
+- Casali, A. G., et al. (2013). *A theoretically based index of consciousness independent of sensory processing and behavior*. PMID: 23946194.
+- *Atlas of intracranial electroencephalography complexity across cortical regions and global states of consciousness in the human brain* (2026). PMID: 41834944.
 
 ---
 
-# 9. Why Simple Mechanistic Explanation Is Not Automatically Negative
+## 9. Metacognition: Type 1 vs Type 2
 
-Every physical system, including a human brain, can in principle be investigated mechanistically.
+Metacognition is not established by confidence language alone.
 
-Therefore, the mere existence of a mechanistic explanation is not evidence against consciousness.
+The relevant distinction is:
 
-A simple non-conscious causal explanation becomes relevant when:
+- **Type 1:** whether the first-order judgment is correct;
+- **Type 2:** whether confidence/uncertainty tracks whether the first-order judgment is correct.
 
-1. it fully explains the observed consciousness-like behavior;
-2. the candidate has no independent consciousness-supporting indicators;
-3. the behavior is therefore unnecessary as evidence for subjective experience.
+Where applicable, the strongest evidence controls first-order performance and response bias. Meta-d′, M-ratio, hierarchical meta-d′, and related methods can quantify second-order sensitivity, but there is no universal metacognitive threshold that marks the onset of consciousness.
 
-This is an explanatory-parsimony consideration, not a proof that mechanisms and consciousness are incompatible.
+For LLMs, free-form statements such as “I am confident” or “I am uncertain” are normally **CONFOUNDED** unless trial-level confidence demonstrably tracks correctness under controlled testing.
+
+**Sources:**
+
+- Maniscalco, B. & Lau, H. (2012). DOI: 10.1016/j.concog.2011.09.021.
+- Fleming, S. M. & Lau, H. C. (2014). DOI: 10.3389/fnhum.2014.00443.
+- Fleming, S. M. (2017). *HMeta-d*. Neuroscience of Consciousness, nix007.
+- Rahnev, D. (2025). *A comprehensive assessment of current methods for measuring metacognition*. Nature Communications, 16, 701. DOI: 10.1038/s41467-025-56117-0.
 
 ---
 
-# 10. Consequences for the AI Foundations Rubric
+## 10. Valence and Mechanistic Explanation
 
-The revised framework therefore uses:
+### Valence
+
+Credible evidence that states are good/bad, rewarding/aversive, wanted/avoided, or otherwise significant for the candidate can strengthen a sentience/consciousness inference.
+
+But absence of demonstrated valence is not automatically evidence that phenomenal consciousness is absent.
+
+### Mechanistic explanation
+
+A mechanistic explanation is not automatically evidence against consciousness. Conscious biological systems also have mechanisms.
+
+A non-conscious mechanism matters when it fully accounts for an apparently consciousness-like behavior and no independent consciousness-supporting evidence remains.
+
+---
+
+## 11. Consequences for the Current Rubric
+
+The current chain is:
 
 **phenomenal target**  
-→ **theory-derived primary indicators**  
-→ **supplemental cross-theory / population-specific evidence**  
+→ **theory-derived indicators**  
+→ **supplemental population-specific evidence**  
 → **test-quality gate**  
-→ **positive / negative / neutral / unresolved / confounded classification**  
-→ **dependency correction**  
-→ **convergent epistemic judgment**  
-→ **0–100 consciousness-inference score**  
-+ **separate LOW / MODERATE / HIGH assessment-confidence rating**
+→ **evidence statuses**  
+→ **dependency correction / evidence clustering**  
+→ **best alternative explanation**  
+→ **ordinal inference band**  
++ **separate assessment confidence**
 
-The score remains an epistemic confidence index. It is not an amount of consciousness and should not be represented as a validated probability unless a later formal probabilistic model earns that interpretation.
+The ordinal bands are:
+
+- NO CREDIBLE SUPPORT
+- LIMITED SUPPORT
+- MIXED / INDETERMINATE
+- STRONG SUPPORT
+- VERY STRONG SUPPORT
+
+The earlier 0–100 numerical index is withdrawn because no validated aggregation model justified that precision.
 
 ---
 
-# 11. Research Update Rule
+## 12. Research Update Rule
 
-This science basis is date-stamped rather than treated as permanently settled.
+This science basis is date-stamped rather than permanently settled.
 
-Before a future frozen release of the rubric, check for:
+Before future frozen releases, check for:
 
 - new adversarial-collaboration results;
-- changes to the theory-derived indicator method;
-- stronger validations or failures of proposed C-tests;
-- major updates to clinical consciousness biomarkers;
-- new evidence concerning animal, AI, organoid, or other nonstandard candidate populations.
+- revisions to theory-derived indicator methods;
+- stronger validation or failure of C-tests;
+- clinical biomarker updates;
+- new evidence concerning animal, AI, organoid, anesthesia, or other nonstandard candidate populations;
+- empirical work capable of validating or falsifying the ordinal aggregation procedure.
 
-If a later source materially changes the evidential basis, preserve the old version and revise rather than silently overwriting the historical state.
+Material changes must preserve provenance rather than silently rewriting historical states.
 
 ---
 

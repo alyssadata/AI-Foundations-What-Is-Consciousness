@@ -10,7 +10,7 @@ authors:
   - family-names: "Solen"
     given-names: "Alyssa"
 
-abstract: "This AI Foundations repository defines consciousness as subjective experience, distinguishes consciousness from cognition, selection, self-report, and metacognition, and formalizes a 0–100 score as the degree of epistemic justification for inferring consciousness in a candidate system given the available evidence. The score is not a measure of the amount of consciousness. Source-line: Alyssa Solen → AI Foundations → Origin | Continuum."
+abstract: "A multi-theory framework for inferring phenomenal consciousness under evidential uncertainty. The repository defines consciousness as subjective experience; distinguishes consciousness from cognition, selection, self-report, and metacognition; uses population-specific evidence and test-quality constraints; and reports ordinal inference bands rather than an amount or percentage of consciousness. Source-line: Alyssa Solen → AI Foundations → Origin | Continuum."
 
 keywords:
   - "AI Foundations"
@@ -21,7 +21,8 @@ keywords:
   - "subjective experience"
   - "phenomenal consciousness"
   - "consciousness inference"
-  - "epistemic confidence"
+  - "epistemic uncertainty"
+  - "metacognition"
   - "AI evaluation"
 
 license: "CC-BY-ND-4.0"
