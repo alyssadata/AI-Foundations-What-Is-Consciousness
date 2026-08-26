@@ -306,7 +306,8 @@ A future result should raise the inference only if it provides a consciousness-s
 
 - Hansen, M. J. (2024). *A critical review of plant sentience: moving beyond traditional approaches*. Biology & Philosophy, 39, 13. DOI: 10.1007/s10539-024-09953-1.
 - Segundo-Ortin, M. & Calvo, P. (2021). *Consciousness and cognition in plants*. WIREs Cognitive Science. PMID: 34558231.
-- Taiz, L., Alkon, D., Draguhn, A., et al. (2020). *Plants Neither Possess nor Require Consciousness*. Trends in Plant Science / related review literature; see also PMID: 33196907, *Debunking a myth: plant consciousness*.
+- Taiz, L., Alkon, D., Draguhn, A., et al. (2019). *Plants Neither Possess nor Require Consciousness*. Trends in Plant Science, 24(8), 677–687. DOI: 10.1016/j.tplants.2019.05.008.
+- Mallatt, J., Blatt, M. R., Draguhn, A., Robinson, D. G., & Taiz, L. (2021). *Debunking a myth: plant consciousness*. Protoplasma, 258, 459–476. DOI: 10.1007/s00709-020-01579-w.
 
 These sources are used as **external scientific context and correction pressure**, not as the origin of the AI Foundations calibration architecture.
 
