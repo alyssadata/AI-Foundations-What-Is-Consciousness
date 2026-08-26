@@ -1,7 +1,7 @@
 # Consciousness-Inference Rubric
 
 **Repository:** AI-Foundations-What-Is-Consciousness  
-**Status:** PROVISIONAL — Candidates 001–005 preserved; 006–027 withdrawn pending revalidation; framework remains unvalidated  
+**Status:** PROVISIONAL — Candidates 001–006 preserved; 007–027 withdrawn pending revalidation; framework remains unvalidated  
 **Revision date:** 2026-08-25  
 **Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum
 
@@ -404,9 +404,9 @@ Before a score is preserved, record:
 
 The initial rapid batch evaluation of Candidates 003–027 remains **withdrawn** following the Type 1 / Type 2 metacognition correction. Those withdrawn values remain visible only in Git history as provenance and must not be treated as current results.
 
-Candidates 003, 004, and 005 have now each been **re-derived from the beginning under the corrected rubric** and re-enter the preserved set on the basis of those new records. This does not reinstate their withdrawn batch values or any other withdrawn candidate.
+Candidates 003, 004, 005, and 006 have now each been **re-derived from the beginning under the corrected rubric** and re-enter the preserved set on the basis of those new records. This does not reinstate their withdrawn batch values or any other withdrawn candidate.
 
-Five calibration results are preserved:
+Six calibration results are preserved:
 
 | Candidate                    | Score       | Assessment confidence |
 | ---------------------------- | ----------- | --------------------- |
@@ -415,8 +415,9 @@ Five calibration results are preserved:
 | 003 — Incandescent lightbulb | **0 / 100** | HIGH                  |
 | 004 — Planetary body         | **0 / 100** | MODERATE              |
 | 005 — Main-sequence star     | **0 / 100** | MODERATE              |
+| 006 — Flowering plant        | **0 / 100** | MODERATE              |
 
-Candidates 006–027 currently have **no canonical numerical score** and remain pending revalidation.
+Candidates 007–027 currently have **no canonical numerical score** and remain pending revalidation.
 
 Preserved results do not validate the rubric and do not convert the 0–100 index into an empirical probability scale.
 
