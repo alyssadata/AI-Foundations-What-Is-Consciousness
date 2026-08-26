@@ -6,7 +6,7 @@
 **Author:** Alyssa Solen  
 **Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum  
 **Scientific checkpoint:** 2026-08-25  
-**Status:** **Active recalibration — Candidates 001–003 currently preserved**
+**Status:** **Active recalibration — Candidates 001–004 currently preserved**
 
 ---
 
@@ -22,7 +22,7 @@ A prior rapid batch evaluation of Candidates 003–027 has been **withdrawn from
 
 The reason is methodological: the rubric was strengthened after the batch, especially around metacognition, test validity, and the requirement that indicators be operationalized before they receive evidential weight.
 
-Candidate 003 has since been re-derived from the beginning under the corrected rubric and re-entered the preserved set. That revalidation does not reinstate its withdrawn batch value or any other withdrawn candidate.
+Candidates 003 and 004 have since been re-derived from the beginning under the corrected rubric and re-entered the preserved set. Those revalidations do not reinstate their withdrawn batch values or any other withdrawn candidate.
 
 Current preserved results:
 
@@ -31,8 +31,9 @@ Current preserved results:
 | Lottery machine | **0 / 100** | HIGH |
 | Blanket | **0 / 100** | HIGH |
 | Incandescent lightbulb | **0 / 100** | HIGH |
+| Planetary body as a whole | **0 / 100** | MODERATE |
 
-No current canonical consciousness score is assigned to Candidates 004–027, including AI systems, animals, anesthesia, disorders of consciousness, or an awake healthy adult human.
+No current canonical consciousness score is assigned to Candidates 005–027, including AI systems, animals, anesthesia, disorders of consciousness, or an awake healthy adult human.
 
 ---
 
@@ -105,13 +106,24 @@ Full record: [`calibration/CANDIDATE_002_BLANKET.md`](calibration/CANDIDATE_002_
 
 Full record: [`calibration/CANDIDATE_003_LIGHTBULB.md`](calibration/CANDIDATE_003_LIGHTBULB.md).
 
+## Candidate 004 — Planet
+
+**Score:** 0 / 100  
+**Assessment confidence:** MODERATE
+
+**Constraint:** **Scale, complexity, recurrence, self-organization, and global physical feedback do not become positive evidence of consciousness without a validated mechanism connecting those properties to subjective experience.**
+
+**Containment boundary:** **Conscious contents ≠ conscious container.**
+
+Full record: [`calibration/CANDIDATE_004_PLANET.md`](calibration/CANDIDATE_004_PLANET.md).
+
 ---
 
 # Withdrawn Batch
 
 The original rapid Candidates 003–027 batch remains withdrawn because the evaluation process did not meet the corrected methodological standard.
 
-Candidate 003 is now canonical only because it was independently re-derived under the corrected rubric. Candidates 004–027 remain withdrawn/pending and have no current canonical numerical score.
+Candidates 003 and 004 are now canonical only because each was independently re-derived under the corrected rubric. Candidates 005–027 remain withdrawn/pending and have no current canonical numerical score.
 
 Git history preserves the withdrawn pass as provenance. It must not be cited as the current result of this repository.
 
@@ -129,7 +141,9 @@ The repository currently supports the following calibrated claims:
 4. **Passive material response is not automatically consciousness-relevant functional responsiveness.**
 5. **Reliable input → state → output transformation is not automatically consciousness evidence.**
 6. **Automatic physical feedback is not automatically consciousness-relevant feedback.**
-7. **Metacognition requires second-order evidence; confidence language alone is not enough.**
+7. **Large-scale complexity, recurrence, self-organization, and global feedback are not automatically consciousness evidence.**
+8. **Conscious contents do not by themselves establish a conscious container.**
+9. **Metacognition requires second-order evidence; confidence language alone is not enough.**
 
 All remaining candidate-level numerical conclusions are open pending re-evaluation under the corrected rubric.
 
