@@ -1,7 +1,7 @@
 # AI Foundations | What Is Consciousness?
 
 **Repository:** AI-Foundations-What-Is-Consciousness  
-**Status:** Canon Repository — rubric revision in calibration  
+**Status:** Canon Repository — revised rubric in active calibration  
 **Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum  
 **Author:** Alyssa Solen  
 **Version:** 1.0.0  
@@ -93,7 +93,7 @@ See [`confidence-score.md`](confidence-score.md) and [`RUBRIC.md`](RUBRIC.md).
 
 The current research checkpoint is **2026-08-25**.
 
-The repository now incorporates three major methodological constraints from contemporary consciousness science:
+The repository incorporates three major methodological constraints from contemporary consciousness science:
 
 1. **No universal C-test currently exists.** Tests must be evaluated for target population, specificity, sensitivity, and rational confidence.
 2. **Theory-derived indicators should shift credence rather than act as a binary checklist.** Positive and negative indicators are possible, and indicator dependencies must be accounted for.
@@ -107,18 +107,27 @@ Full source record: [`CURRENT_SCIENCE_BASIS.md`](CURRENT_SCIENCE_BASIS.md).
 
 ### Candidate 001 — Lottery Machine
 
-**Historical first-pass score:** 0 / 100  
-**Historical calibration constraint:** **Mere selection contributes 0 positive evidence of consciousness.**
+**Revalidated score:** 0 / 100  
+**Assessment confidence:** HIGH  
+**Status:** **REVALIDATED UNDER REVISED RUBRIC**
 
-The first-pass record is preserved for provenance, but its indicator table predates the revised rubric.
+The historical first-pass result is preserved inside the calibration record, but the current anchor has now been earned again under the revised theory-derived, population-aware method.
 
-**Current status: REVALIDATION REQUIRED.**
+**Preserved calibration constraint:**
 
-Candidate 001 must be rerun under [`RUBRIC.md`](RUBRIC.md) before its score becomes the calibration anchor for the revised framework.
+> **Mere selection contributes 0 positive evidence of consciousness.**
+
+**Additional calibration constraint:**
+
+> **Ordinary physical persistence, component interaction, randomness, and state change must not be relabeled as consciousness-relevant information-processing indicators without evidence that the candidate actually implements the relevant mechanism.**
 
 Full record: [`calibration/CANDIDATE_001_LOTTERY_MACHINE.md`](calibration/CANDIDATE_001_LOTTERY_MACHINE.md)
 
-Candidate 002 — Blanket has been discussed but **not preserved** and will be evaluated only after Candidate 001 is revalidated.
+### Candidate 002 — Blanket
+
+**Status:** READY FOR REVISED-RUBRIC EVALUATION
+
+The earlier blanket discussion was not preserved as a final score. It will be evaluated fresh under the revised rubric.
 
 ---
 
