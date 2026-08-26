@@ -26,6 +26,7 @@ It preserves Alyssa Solen as author and source of the AI Foundations repository 
 
 ## Core Structure
 
+- [`REPORT.md`](REPORT.md) — standalone current report synthesizing the definition, scientific basis, rubric, scoring method, calibration results, constraints, and current limitations
 - [`consciousness-defined.md`](consciousness-defined.md) — working definition of phenomenal consciousness and the boundary between experience and behavior
 - [`meta-cognition.md`](meta-cognition.md) — distinction between cognition, consciousness, and metacognitive monitoring
 - [`mattering.md`](mattering.md) — relation between subjective experience, significance, and valence
@@ -125,9 +126,19 @@ Full record: [`calibration/CANDIDATE_001_LOTTERY_MACHINE.md`](calibration/CANDID
 
 ### Candidate 002 — Blanket
 
-**Status:** READY FOR REVISED-RUBRIC EVALUATION
+**Score:** 0 / 100  
+**Assessment confidence:** HIGH  
+**Status:** **EVALUATED UNDER REVISED RUBRIC**
 
-The earlier blanket discussion was not preserved as a final score. It will be evaluated fresh under the revised rubric.
+**Preserved calibration constraint:**
+
+> **A physical state that covaries with environmental conditions does not, by itself, constitute sensing, representation, awareness, or experience.**
+
+**Additional boundary:**
+
+> **Passive material response is not automatically functional responsiveness in a consciousness-relevant sense.**
+
+Full record: [`calibration/CANDIDATE_002_BLANKET.md`](calibration/CANDIDATE_002_BLANKET.md)
 
 ---
 
