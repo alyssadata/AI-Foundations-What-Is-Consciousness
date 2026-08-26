@@ -1,7 +1,7 @@
 # Consciousness-Inference Rubric
 
 **Repository:** AI-Foundations-What-Is-Consciousness  
-**Status:** PROVISIONAL — Candidates 001–003 preserved; 004–027 withdrawn pending revalidation; framework remains unvalidated  
+**Status:** PROVISIONAL — Candidates 001–004 preserved; 005–027 withdrawn pending revalidation; framework remains unvalidated  
 **Revision date:** 2026-08-25  
 **Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum
 
@@ -39,7 +39,7 @@ If it means functional access to information, it must be operationalized using m
 Every indicator is assigned one of the following statuses for a candidate:
 
 - **POSITIVE** — evidence raises the consciousness inference under at least one scientifically credible account.
-- **NEGATIVE** — evidence lowers the consciousness inference because a relevant predicted property is demonstrably absent, an anti-indicator is present, or intervention evidence conflicts with a consciousness-supporting account.
+- **NEGATIVE** — evidence lowers the inference because a relevant predicted property is demonstrably absent, an anti-indicator is present, or intervention evidence conflicts with a consciousness-supporting account.
 - **NEUTRAL / ABSENT** — no positive evidence is present, but the absence is not itself justified as evidence against consciousness.
 - **UNRESOLVED** — available evidence is insufficient, disputed, inaccessible, or depends on an unsettled system boundary.
 - **NOT APPLICABLE** — the indicator or test is not meaningful for this candidate class.
@@ -404,17 +404,18 @@ Before a score is preserved, record:
 
 The initial rapid batch evaluation of Candidates 003–027 remains **withdrawn** following the Type 1 / Type 2 metacognition correction. Those withdrawn values remain visible only in Git history as provenance and must not be treated as current results.
 
-Candidate 003 has now been **re-derived from the beginning under the corrected rubric** and re-enters the preserved set on the basis of that new record. This does not reinstate its withdrawn batch value or any other withdrawn candidate.
+Candidates 003 and 004 have now each been **re-derived from the beginning under the corrected rubric** and re-enter the preserved set on the basis of those new records. This does not reinstate their withdrawn batch values or any other withdrawn candidate.
 
-Three calibration results are preserved:
+Four calibration results are preserved:
 
 | Candidate                    | Score       | Assessment confidence |
 | ---------------------------- | ----------- | --------------------- |
 | 001 — Lottery machine        | **0 / 100** | HIGH                  |
 | 002 — Blanket                | **0 / 100** | HIGH                  |
 | 003 — Incandescent lightbulb | **0 / 100** | HIGH                  |
+| 004 — Planetary body         | **0 / 100** | MODERATE              |
 
-Candidates 004–027 currently have **no canonical numerical score** and remain pending revalidation.
+Candidates 005–027 currently have **no canonical numerical score** and remain pending revalidation.
 
 Preserved results do not validate the rubric and do not convert the 0–100 index into an empirical probability scale.
 
