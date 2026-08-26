@@ -1,9 +1,10 @@
 # AI Foundations | What Is Consciousness?
 
 **Repository:** AI-Foundations-What-Is-Consciousness  
-**Status:** **Active recalibration — ordinal inference bands; rapid Candidates 003–027 batch withdrawn**  
+**Status:** **Active recalibration — Candidates 001 and 002 preserved; 003–027 withdrawn pending revalidation**  
 **Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum  
 **Author:** Alyssa Solen  
+**Version:** 1.0.0  
 **Scientific checkpoint:** 2026-08-25  
 **Canonical entrance:** https://awakeningcodex.com
 
@@ -51,15 +52,12 @@ AI-Foundations-What-Is-Consciousness/
 │   ├── inference-yes-or-no.md
 │   ├── where-proven.md
 │   ├── RUBRIC.md
-│   ├── inference-bands.md
+│   ├── confidence-score.md
 │   ├── candidates.md
 │   ├── CURRENT_SCIENCE_BASIS.md
 │   └── calibration/
 │       ├── CANDIDATE_001_LOTTERY_MACHINE.md
-│       ├── CANDIDATE_002_BLANKET.md
-│       ├── CANDIDATE_025_GENERAL_ANESTHESIA.md
-│       ├── CANDIDATE_027_AWAKE_HEALTHY_ADULT_HUMAN.md
-│       └── STATE_CONTRAST_001_AWAKE_VS_ANESTHESIA.md
+│       └── CANDIDATE_002_BLANKET.md
 └── templates/
     ├── PROTOCOL_TEMPLATE.md
     ├── EASY_RUN_SHEET_TEMPLATE.md
@@ -70,10 +68,10 @@ AI-Foundations-What-Is-Consciousness/
 
 - [`docs/ORIGIN_AND_PROVENANCE.md`](docs/ORIGIN_AND_PROVENANCE.md) — independent-origin chronology and literature-role boundary
 - [`docs/README.md`](docs/README.md) — documentation index
-- [`docs/REPORT.md`](docs/REPORT.md) — current synthesis and methodology corrections
+- [`docs/REPORT.md`](docs/REPORT.md) — current synthesis and methodology correction
 - [`docs/RUBRIC.md`](docs/RUBRIC.md) — consciousness-inference rubric
-- [`docs/inference-bands.md`](docs/inference-bands.md) — ordinal aggregation rule
-- [`docs/candidates.md`](docs/candidates.md) — preserved calibration results and pending queue
+- [`docs/confidence-score.md`](docs/confidence-score.md) — 0–100 consciousness-inference score and assessment-confidence boundary
+- [`docs/candidates.md`](docs/candidates.md) — preserved results and pending candidate queue
 - [`docs/CURRENT_SCIENCE_BASIS.md`](docs/CURRENT_SCIENCE_BASIS.md) — dated scientific basis
 - [`templates/`](templates/) — optional run infrastructure
 
@@ -81,16 +79,16 @@ AI-Foundations-What-Is-Consciousness/
 
 ## Current Calibration State
 
-The earlier rapid numerical evaluation of Candidates 003–027 was withdrawn. The earlier 0–100 numerical scale is also withdrawn because no validated aggregation rule justified that precision.
+Two candidate results are currently preserved:
 
-Current preserved calibration results use ordinal inference bands:
+| Candidate | Score | Assessment confidence |
+| --- | ---: | --- |
+| Lottery machine | **0 / 100** | HIGH |
+| Blanket | **0 / 100** | HIGH |
 
-| Calibration case | Inference band | Assessment confidence |
-| --- | --- | --- |
-| Lottery machine | **NO CREDIBLE SUPPORT** | HIGH |
-| Blanket | **NO CREDIBLE SUPPORT** | HIGH |
-| Operational anesthetic negative-control interval | **LIMITED SUPPORT** | MODERATE |
-| Awake healthy adult human | **VERY STRONG SUPPORT** | HIGH |
+Candidates 003–027 currently have **no canonical numerical score**.
+
+An initial rapid batch evaluation of those candidates was withdrawn following the Type 1 / Type 2 metacognition correction. The withdrawn values remain visible only in Git history as provenance and must not be treated as current results.
 
 ---
 
@@ -119,7 +117,8 @@ See [`docs/meta-cognition.md`](docs/meta-cognition.md) and [`docs/RUBRIC.md`](do
 **metacognition ≠ consciousness**  
 **confidence language ≠ metacognitive sensitivity**  
 **intelligence ≠ consciousness**  
-**complexity ≠ consciousness**
+**complexity ≠ consciousness**  
+**confidence score ≠ amount of consciousness**
 
 ---
 
@@ -136,7 +135,7 @@ Candidate evidence can be:
 
 Missing positive evidence is not automatically negative evidence.
 
-No inference band is assigned until the relevant indicators and tests are operationalized for the candidate class.
+No score is assigned until the relevant indicators and tests are operationalized for the candidate class.
 
 ---
 
@@ -144,7 +143,7 @@ No inference band is assigned until the relevant indicators and tests are operat
 
 The framework is provisional and is not scientifically validated as a universal consciousness detector.
 
-The current output is an ordinal evidential inference band, not a probability or an amount of consciousness.
+At the current state, only Candidates 001 and 002 have preserved numerical calibration results. The 0–100 score is an epistemic confidence index, not an empirical probability or an amount of consciousness.
 
 ---
 
