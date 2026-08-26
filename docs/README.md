@@ -55,8 +55,9 @@ This folder contains the working conceptual, inferential, methodological, scient
 - [`calibration/CANDIDATE_004_PLANET.md`](calibration/CANDIDATE_004_PLANET.md) — preserved 0 / 100 large-scale physical-system anchor; MODERATE assessment confidence
 - [`calibration/CANDIDATE_005_STAR.md`](calibration/CANDIDATE_005_STAR.md) — preserved 0 / 100 self-regulating stellar-system anchor; MODERATE assessment confidence
 - [`calibration/CANDIDATE_006_FLOWER.md`](calibration/CANDIDATE_006_FLOWER.md) — preserved 0 / 100 living biological-system anchor; MODERATE assessment confidence
+- [`calibration/CANDIDATE_007_WATCH.md`](calibration/CANDIDATE_007_WATCH.md) — preserved 0 / 100 engineered information-tracking anchor; HIGH assessment confidence
 
-Candidates 007–027 currently have no canonical score and remain pending re-evaluation under the corrected rubric.
+Candidates 008–027 currently have no canonical score and remain pending re-evaluation under the corrected rubric.
 
 ---
 
