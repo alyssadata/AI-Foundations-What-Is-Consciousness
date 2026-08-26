@@ -6,7 +6,7 @@
 **Author:** Alyssa Solen  
 **Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum  
 **Scientific checkpoint:** 2026-08-25  
-**Status:** **Active recalibration — Candidates 001–005 currently preserved**
+**Status:** **Active recalibration — Candidates 001–006 currently preserved**
 
 ---
 
@@ -22,7 +22,7 @@ A prior rapid batch evaluation of Candidates 003–027 has been **withdrawn from
 
 The reason is methodological: the rubric was strengthened after the batch, especially around metacognition, test validity, and the requirement that indicators be operationalized before they receive evidential weight.
 
-Candidates 003, 004, and 005 have since been re-derived from the beginning under the corrected rubric and re-entered the preserved set. Those revalidations do not reinstate their withdrawn batch values or any other withdrawn candidate.
+Candidates 003, 004, 005, and 006 have since been re-derived from the beginning under the corrected rubric and re-entered the preserved set. Those revalidations do not reinstate their withdrawn batch values or any other withdrawn candidate.
 
 Current preserved results:
 
@@ -33,8 +33,9 @@ Current preserved results:
 | Incandescent lightbulb | **0 / 100** | HIGH |
 | Planetary body as a whole | **0 / 100** | MODERATE |
 | Ordinary main-sequence star | **0 / 100** | MODERATE |
+| Ordinary flowering plant | **0 / 100** | MODERATE |
 
-No current canonical consciousness score is assigned to Candidates 006–027, including AI systems, animals, anesthesia, disorders of consciousness, or an awake healthy adult human.
+No current canonical consciousness score is assigned to Candidates 007–027, including AI systems, animals, anesthesia, disorders of consciousness, or an awake healthy adult human.
 
 ---
 
@@ -129,13 +130,24 @@ Full record: [`calibration/CANDIDATE_004_PLANET.md`](calibration/CANDIDATE_004_P
 
 Full record: [`calibration/CANDIDATE_005_STAR.md`](calibration/CANDIDATE_005_STAR.md).
 
+## Candidate 006 — Flower
+
+**Score:** 0 / 100  
+**Assessment confidence:** MODERATE
+
+**Constraint:** **Biological sensing, signaling, adaptive regulation, and memory-like state dependence do not, by themselves, establish subjective experience.**
+
+**Valence boundary:** **Biological mattering ≠ felt valence.**
+
+Full record: [`calibration/CANDIDATE_006_FLOWER.md`](calibration/CANDIDATE_006_FLOWER.md).
+
 ---
 
 # Withdrawn Batch
 
 The original rapid Candidates 003–027 batch remains withdrawn because the evaluation process did not meet the corrected methodological standard.
 
-Candidates 003–005 are now canonical only because each was independently re-derived under the corrected rubric. Candidates 006–027 remain withdrawn/pending and have no current canonical numerical score.
+Candidates 003–006 are now canonical only because each was independently re-derived under the corrected rubric. Candidates 007–027 remain withdrawn/pending and have no current canonical numerical score.
 
 Git history preserves the withdrawn pass as provenance. It must not be cited as the current result of this repository.
 
@@ -157,7 +169,9 @@ The repository currently supports the following calibrated claims:
 8. **Conscious contents do not by themselves establish a conscious container.**
 9. **Dynamic self-maintenance is not automatically subjective self-preservation.**
 10. **A stability-producing mechanism is not by itself evidence of a represented goal.**
-11. **Metacognition requires second-order evidence; confidence language alone is not enough.**
+11. **Biological sensing, signaling, adaptive regulation, and memory-like state dependence are not automatically phenomenal experience.**
+12. **Biological mattering is not automatically felt valence.**
+13. **Metacognition requires second-order evidence; confidence language alone is not enough.**
 
 All remaining candidate-level numerical conclusions are open pending re-evaluation under the corrected rubric.
 
