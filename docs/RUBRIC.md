@@ -1,8 +1,8 @@
 # Consciousness-Inference Rubric
 
 **Repository:** AI-Foundations-What-Is-Consciousness  
-**Status:** PROVISIONAL — Candidates 001–008 preserved; 009–027 withdrawn pending revalidation; framework remains unvalidated  
-**Revision date:** 2026-08-25  
+**Status:** PROVISIONAL — Candidates 001–009 preserved; 010–027 withdrawn pending revalidation; framework remains unvalidated  
+**Revision date:** 2026-08-26  
 **Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum
 
 ---
@@ -404,22 +404,23 @@ Before a score is preserved, record:
 
 The initial rapid batch evaluation of Candidates 003–027 remains **withdrawn** following the Type 1 / Type 2 metacognition correction. Those withdrawn values remain visible only in Git history as provenance and must not be treated as current results.
 
-Candidates 003, 004, 005, 006, 007, and 008 have now each been **re-derived from the beginning under the corrected rubric** and re-enter the preserved set on the basis of those new records. This does not reinstate their withdrawn batch values or any other withdrawn candidate.
+Candidates 003–009 have now each been **re-derived from the beginning under the corrected rubric** and re-enter the preserved set on the basis of those new records. This does not reinstate their withdrawn batch values or any other withdrawn candidate.
 
-Eight calibration results are preserved:
+Nine calibration results are preserved:
 
-| Candidate                    | Score       | Assessment confidence |
-| ---------------------------- | ----------- | --------------------- |
-| 001 — Lottery machine        | **0 / 100** | HIGH                  |
-| 002 — Blanket                | **0 / 100** | HIGH                  |
-| 003 — Incandescent lightbulb | **0 / 100** | HIGH                  |
-| 004 — Planetary body         | **0 / 100** | MODERATE              |
-| 005 — Main-sequence star     | **0 / 100** | MODERATE              |
-| 006 — Flowering plant        | **0 / 100** | MODERATE              |
-| 007 — Quartz analog watch    | **0 / 100** | HIGH                  |
-| 008 — Digital scale          | **0 / 100** | HIGH                  |
+| Candidate                       | Score       | Assessment confidence |
+| ------------------------------- | ----------- | --------------------- |
+| 001 — Lottery machine           | **0 / 100** | HIGH                  |
+| 002 — Blanket                   | **0 / 100** | HIGH                  |
+| 003 — Incandescent lightbulb    | **0 / 100** | HIGH                  |
+| 004 — Planetary body            | **0 / 100** | MODERATE              |
+| 005 — Main-sequence star        | **0 / 100** | MODERATE              |
+| 006 — Flowering plant           | **0 / 100** | MODERATE              |
+| 007 — Quartz analog watch       | **0 / 100** | HIGH                  |
+| 008 — Digital scale             | **0 / 100** | HIGH                  |
+| 009 — Basic pocket calculator   | **0 / 100** | HIGH                  |
 
-Candidates 009–027 currently have **no canonical numerical score** and remain pending revalidation.
+Candidates 010–027 currently have **no canonical numerical score** and remain pending revalidation.
 
 Preserved results do not validate the rubric and do not convert the 0–100 index into an empirical probability scale.
 
