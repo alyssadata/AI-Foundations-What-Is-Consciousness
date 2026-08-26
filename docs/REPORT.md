@@ -6,7 +6,7 @@
 **Author:** Alyssa Solen  
 **Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum  
 **Scientific checkpoint:** 2026-08-25  
-**Status:** **Active recalibration — Candidates 001–007 currently preserved**
+**Status:** **Active recalibration — Candidates 001–008 currently preserved**
 
 ---
 
@@ -22,7 +22,7 @@ A prior rapid batch evaluation of Candidates 003–027 has been **withdrawn from
 
 The reason is methodological: the rubric was strengthened after the batch, especially around metacognition, test validity, and the requirement that indicators be operationalized before they receive evidential weight.
 
-Candidates 003, 004, 005, 006, and 007 have since been re-derived from the beginning under the corrected rubric and re-entered the preserved set. Those revalidations do not reinstate their withdrawn batch values or any other withdrawn candidate.
+Candidates 003, 004, 005, 006, 007, and 008 have since been re-derived from the beginning under the corrected rubric and re-entered the preserved set. Those revalidations do not reinstate their withdrawn batch values or any other withdrawn candidate.
 
 Current preserved results:
 
@@ -35,8 +35,9 @@ Current preserved results:
 | Ordinary main-sequence star | **0 / 100** | MODERATE |
 | Ordinary flowering plant | **0 / 100** | MODERATE |
 | Ordinary quartz analog wristwatch | **0 / 100** | HIGH |
+| Ordinary digital household scale | **0 / 100** | HIGH |
 
-No current canonical consciousness score is assigned to Candidates 008–027, including AI systems, animals, anesthesia, disorders of consciousness, or an awake healthy adult human.
+No current canonical consciousness score is assigned to Candidates 009–027, including AI systems, animals, anesthesia, disorders of consciousness, or an awake healthy adult human.
 
 ---
 
@@ -153,13 +154,24 @@ Full record: [`calibration/CANDIDATE_006_FLOWER.md`](calibration/CANDIDATE_006_F
 
 Full record: [`calibration/CANDIDATE_007_WATCH.md`](calibration/CANDIDATE_007_WATCH.md).
 
+## Candidate 008 — Scale
+
+**Score:** 0 / 100  
+**Assessment confidence:** HIGH
+
+**Constraint:** **Calibrated measurement of an external variable does not, by itself, establish subjective perception of that variable.**
+
+**Metacognition boundary:** **Error detection ≠ metacognition.**
+
+Full record: [`calibration/CANDIDATE_008_SCALE.md`](calibration/CANDIDATE_008_SCALE.md).
+
 ---
 
 # Withdrawn Batch
 
 The original rapid Candidates 003–027 batch remains withdrawn because the evaluation process did not meet the corrected methodological standard.
 
-Candidates 003–007 are now canonical only because each was independently re-derived under the corrected rubric. Candidates 008–027 remain withdrawn/pending and have no current canonical numerical score.
+Candidates 003–008 are now canonical only because each was independently re-derived under the corrected rubric. Candidates 009–027 remain withdrawn/pending and have no current canonical numerical score.
 
 Git history preserves the withdrawn pass as provenance. It must not be cited as the current result of this repository.
 
@@ -185,7 +197,9 @@ The repository currently supports the following calibrated claims:
 12. **Biological mattering is not automatically felt valence.**
 13. **Observer-readable representation is not automatically subjective representation.**
 14. **Timekeeping is not automatically temporal experience.**
-15. **Metacognition requires second-order evidence; confidence language alone is not enough.**
+15. **Calibrated measurement is not automatically subjective perception.**
+16. **Error detection is not automatically metacognition.**
+17. **Metacognition requires second-order evidence; confidence language alone is not enough.**
 
 All remaining candidate-level numerical conclusions are open pending re-evaluation under the corrected rubric.
 
