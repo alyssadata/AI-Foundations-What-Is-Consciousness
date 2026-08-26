@@ -3,7 +3,7 @@
 **Framework:** [`RUBRIC.md`](RUBRIC.md)  
 **Score meaning:** degree of epistemic justification for inferring phenomenal consciousness  
 **Assessment confidence:** confidence in the quality and completeness of evidence used for the score  
-**Current calibration status:** **5 candidates preserved; 22 candidates pending re-evaluation**  
+**Current calibration status:** **6 candidates preserved; 21 candidates pending re-evaluation**  
 **Scientific checkpoint:** 2026-08-25  
 **Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum
 
@@ -35,6 +35,7 @@ Accordingly, the withdrawn batch is not treated as valid calibration evidence. G
 | 003 | Incandescent lightbulb | **0 / 100** | HIGH | Evaluated under corrected rubric |
 | 004 | Planetary body as a whole | **0 / 100** | MODERATE | Evaluated under corrected rubric |
 | 005 | Ordinary main-sequence star | **0 / 100** | MODERATE | Evaluated under corrected rubric |
+| 006 | Ordinary flowering plant | **0 / 100** | MODERATE | Evaluated under corrected rubric |
 
 ## Candidate 001 — Lottery Machine
 
@@ -72,13 +73,20 @@ Teleology boundary: **stability-producing mechanism ≠ goal representation.**
 
 Full record: [`calibration/CANDIDATE_005_STAR.md`](calibration/CANDIDATE_005_STAR.md)
 
+## Candidate 006 — Flower
+
+**Preserved constraint:** **Biological sensing, signaling, adaptive regulation, and memory-like state dependence do not, by themselves, establish subjective experience.**
+
+Valence boundary: **biological mattering ≠ felt valence.**
+
+Full record: [`calibration/CANDIDATE_006_FLOWER.md`](calibration/CANDIDATE_006_FLOWER.md)
+
 ---
 
 # Pending Candidate Queue
 
 The following candidates have **no current canonical score** and must be evaluated again under the corrected rubric:
 
-6. Flower
 7. Watch
 8. Scale
 9. Pocket calculator
