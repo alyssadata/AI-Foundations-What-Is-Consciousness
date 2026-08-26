@@ -1,85 +1,55 @@
 # Candidate Behaviors and Calibration Index
 
 **Framework:** [`RUBRIC.md`](RUBRIC.md)  
-**Inference output:** ordinal evidence band for phenomenal-consciousness inference  
-**Assessment confidence:** confidence in the quality and completeness of evidence used for the band  
-**Current calibration status:** **4 preserved calibration cases; 23 queue candidates pending**  
+**Score meaning:** degree of epistemic justification for inferring phenomenal consciousness  
+**Assessment confidence:** confidence in the quality and completeness of evidence used for the score  
+**Current calibration status:** **2 candidates preserved; 25 candidates pending re-evaluation**  
 **Scientific checkpoint:** 2026-08-25  
 **Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum
 
 ---
 
-# Methodology Corrections
+# Methodology Correction
 
-The earlier rapid numerical evaluation of Candidates 003–027 was withdrawn from the current canon.
+A prior batch evaluation of Candidates 003–027 was withdrawn from the current canon after the rubric was strengthened.
 
-Two corrections now govern the calibration:
+The correction is not limited to wording. The previous batch assigned numerical scores too quickly and did not adequately operationalize every indicator before scoring.
 
-1. **Metacognition requires Type 2 evidence** when applicable; confidence language alone is not sufficient.
-2. **The 0–100 numerical scale is withdrawn.** The current framework uses ordinal inference bands because no validated aggregation rule justified quantitative precision.
+In particular, metacognition now requires a Type 1 / Type 2 distinction:
 
-Git history preserves the withdrawn numerical pass as provenance only.
+- **Type 1 performance:** whether the candidate's first-order judgment is correct;
+- **Type 2 performance:** whether confidence or uncertainty discriminates correct from incorrect first-order judgments while controlling for Type 1 performance.
 
----
+Free-form confidence language, self-reference, or statements such as “I am uncertain” are not sufficient evidence of metacognitive sensitivity.
 
-# Current Inference Bands
-
-**NO CREDIBLE SUPPORT**  
-**LIMITED SUPPORT**  
-**MIXED / INDETERMINATE**  
-**STRONG SUPPORT**  
-**VERY STRONG SUPPORT**
-
-Full aggregation rule: [`inference-bands.md`](inference-bands.md).
+Accordingly, the withdrawn batch is not treated as valid calibration evidence. Git history preserves the provenance of the withdrawn pass, but the current branch does not present those numerical scores as results.
 
 ---
 
 # Preserved Calibration Results
 
-| ID / control | Candidate or state | Inference band | Assessment confidence | Role |
-| --- | --- | --- | --- | --- |
-| 001 | Lottery machine | **NO CREDIBLE SUPPORT** | HIGH | low-end control |
-| 002 | Blanket | **NO CREDIBLE SUPPORT** | HIGH | low-end control |
-| 025 | Operational anesthetic negative-control interval | **LIMITED SUPPORT** | MODERATE | within-human low-state control |
-| 027 | Awake healthy adult human | **VERY STRONG SUPPORT** | HIGH | positive anchor |
+| ID | Candidate | Score | Assessment confidence | Status |
+| --- | --- | ---: | --- | --- |
+| 001 | Lottery machine | **0 / 100** | HIGH | Revalidated under revised rubric |
+| 002 | Blanket | **0 / 100** | HIGH | Evaluated under revised rubric |
 
 ## Candidate 001 — Lottery Machine
 
-**Constraint:** **Mere selection contributes no positive evidence of consciousness.**
+**Preserved constraint:** **Mere selection contributes 0 positive evidence of consciousness.**
 
 Full record: [`calibration/CANDIDATE_001_LOTTERY_MACHINE.md`](calibration/CANDIDATE_001_LOTTERY_MACHINE.md)
 
 ## Candidate 002 — Blanket
 
-**Constraint:** **A physical state that covaries with environmental conditions does not, by itself, constitute sensing, representation, awareness, or experience.**
+**Preserved constraint:** **A physical state that covaries with environmental conditions does not, by itself, constitute sensing, representation, awareness, or experience.**
 
 Full record: [`calibration/CANDIDATE_002_BLANKET.md`](calibration/CANDIDATE_002_BLANKET.md)
-
-## Candidate 025 — Human Under General Anesthesia
-
-The original broad label is too heterogeneous for a clean negative anchor. The preserved calibration record therefore uses a narrower operational control: an unresponsive propofol/xenon anesthetic interval with convergent no-experience and low-complexity evidence.
-
-**Constraint:** **Behavioral unresponsiveness alone is not evidence of unconsciousness; anesthesia must be evaluated state-specifically.**
-
-Full record: [`calibration/CANDIDATE_025_GENERAL_ANESTHESIA.md`](calibration/CANDIDATE_025_GENERAL_ANESTHESIA.md)
-
-## Candidate 027 — Awake Healthy Adult Human
-
-This is the current positive external anchor.
-
-Full record: [`calibration/CANDIDATE_027_AWAKE_HEALTHY_ADULT_HUMAN.md`](calibration/CANDIDATE_027_AWAKE_HEALTHY_ADULT_HUMAN.md)
-
-## State Contrast 001
-
-**Awake healthy adult → operational anesthetic negative-control interval**
-
-Full record: [`calibration/STATE_CONTRAST_001_AWAKE_VS_ANESTHESIA.md`](calibration/STATE_CONTRAST_001_AWAKE_VS_ANESTHESIA.md)
 
 ---
 
 # Pending Candidate Queue
 
-The following candidates have **no current canonical inference band**:
+The following candidates have **no current canonical score** and must be evaluated again under the corrected rubric:
 
 3. Lightbulb
 4. Planet
@@ -103,15 +73,15 @@ The following candidates have **no current canonical inference band**:
 22. Cat
 23. Dog
 24. Octopus
+25. Human under general anesthesia
 26. Human in a minimally conscious state
-
-Candidates 025 and 027 have been re-entered only as corrected human calibration anchors; this does not reinstate the withdrawn batch.
+27. Awake healthy adult human
 
 ---
 
 # Queue Rule
 
-Candidates are evaluated one at a time unless a deliberately paired state contrast is required for discrimination testing.
+Candidates are evaluated one at a time.
 
 For each candidate:
 
@@ -123,14 +93,11 @@ For each candidate:
 6. classify evidence as POSITIVE, NEGATIVE, NEUTRAL / ABSENT, UNRESOLVED, NOT APPLICABLE, or CONFOUNDED;
 7. evaluate sensitivity, specificity, construct validity, rational confidence, gameability, and evidential independence;
 8. do not credit metacognition without Type 2 evidence when such measurement is applicable;
-9. collapse dependent indicators into non-redundant evidence clusters;
-10. identify the strongest positive, negative, neutral, unresolved, and confounded evidence;
-11. state the best sufficient non-conscious explanation;
-12. assign the **lowest ordinal inference band fully supported by the evidence**;
-13. report separate assessment confidence;
-14. preserve the result before moving to the next candidate.
+9. identify the strongest positive, negative, neutral, and unresolved evidence;
+10. assign a numerical score only after the evidential record is complete;
+11. preserve the result before moving to the next candidate.
 
-**No inference band is assigned in advance.**
+**No score is assigned in advance.**
 
 ---
 
