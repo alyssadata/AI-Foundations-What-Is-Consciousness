@@ -55,7 +55,7 @@ Candidates are evaluated one at a time.
 A candidate's position in this queue is **not** its consciousness score and must not be treated as a prior conclusion about the final result.
 
 1. **Lottery machine** — **revalidated: 0 / 100; assessment confidence HIGH**
-2. **Blanket**
+2. **Blanket** — **evaluated: 0 / 100; assessment confidence HIGH**
 3. **Lightbulb**
 4. **Planet**
 5. **Star**
@@ -120,12 +120,16 @@ Full method: [`RUBRIC.md`](RUBRIC.md).
 
 **Additional calibration constraint:** Ordinary physical persistence, component interaction, randomness, and state change must not be relabeled as consciousness-relevant information-processing indicators without evidence that the candidate actually implements the relevant mechanism.
 
-The historical first-pass record and methodological correction are preserved inside the full calibration record.
-
 Full record: [`calibration/CANDIDATE_001_LOTTERY_MACHINE.md`](calibration/CANDIDATE_001_LOTTERY_MACHINE.md)
 
 ### Candidate 002 — Blanket
 
-**Status:** READY FOR REVISED-RUBRIC EVALUATION
+**Score:** 0 / 100  
+**Assessment confidence:** HIGH  
+**Status:** **EVALUATED UNDER REVISED RUBRIC**
 
-The earlier blanket discussion was not preserved as a final score. Candidate 002 will be evaluated fresh under the revised rubric.
+**Preserved constraint:** **A physical state that covaries with environmental conditions does not, by itself, constitute sensing, representation, awareness, or experience.**
+
+**Additional boundary:** **Passive material response is not automatically functional responsiveness in a consciousness-relevant sense.**
+
+Full record: [`calibration/CANDIDATE_002_BLANKET.md`](calibration/CANDIDATE_002_BLANKET.md)
