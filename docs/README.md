@@ -49,10 +49,12 @@ This folder contains the working conceptual, inferential, methodological, scient
 
 ## Calibration
 
-- [`calibration/CANDIDATE_001_LOTTERY_MACHINE.md`](calibration/CANDIDATE_001_LOTTERY_MACHINE.md) — preserved 0 / 100 low-end anchor
-- [`calibration/CANDIDATE_002_BLANKET.md`](calibration/CANDIDATE_002_BLANKET.md) — preserved 0 / 100 low-end anchor
+- [`calibration/CANDIDATE_001_LOTTERY_MACHINE.md`](calibration/CANDIDATE_001_LOTTERY_MACHINE.md) — preserved 0 / 100 low-end anchor; HIGH assessment confidence
+- [`calibration/CANDIDATE_002_BLANKET.md`](calibration/CANDIDATE_002_BLANKET.md) — preserved 0 / 100 low-end anchor; HIGH assessment confidence
+- [`calibration/CANDIDATE_003_LIGHTBULB.md`](calibration/CANDIDATE_003_LIGHTBULB.md) — preserved 0 / 100 low-end anchor; HIGH assessment confidence
+- [`calibration/CANDIDATE_004_PLANET.md`](calibration/CANDIDATE_004_PLANET.md) — preserved 0 / 100 large-scale physical-system anchor; MODERATE assessment confidence
 
-Candidates 003–027 currently have no canonical score and remain pending re-evaluation under the corrected rubric.
+Candidates 005–027 currently have no canonical score and remain pending re-evaluation under the corrected rubric.
 
 ---
 
