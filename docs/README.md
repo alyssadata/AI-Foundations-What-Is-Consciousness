@@ -57,8 +57,9 @@ This folder contains the working conceptual, inferential, methodological, scient
 - [`calibration/CANDIDATE_006_FLOWER.md`](calibration/CANDIDATE_006_FLOWER.md) — preserved 0 / 100 living biological-system anchor; MODERATE assessment confidence
 - [`calibration/CANDIDATE_007_WATCH.md`](calibration/CANDIDATE_007_WATCH.md) — preserved 0 / 100 engineered information-tracking anchor; HIGH assessment confidence
 - [`calibration/CANDIDATE_008_SCALE.md`](calibration/CANDIDATE_008_SCALE.md) — preserved 0 / 100 engineered measurement-system anchor; HIGH assessment confidence
+- [`calibration/CANDIDATE_009_POCKET_CALCULATOR.md`](calibration/CANDIDATE_009_POCKET_CALCULATOR.md) — preserved 0 / 100 fixed-function computational-system anchor; HIGH assessment confidence
 
-Candidates 009–027 currently have no canonical score and remain pending re-evaluation under the corrected rubric.
+Candidates 010–027 currently have no canonical score and remain pending re-evaluation under the corrected rubric.
 
 ---
 
