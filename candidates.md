@@ -44,7 +44,7 @@ The scoring question remains:
 
 > **Given everything observable, how justified are we in inferring that subjective experience is present in this particular system?**
 
-Every candidate must now be evaluated under [`RUBRIC.md`](RUBRIC.md).
+Every candidate must be evaluated under [`RUBRIC.md`](RUBRIC.md).
 
 ---
 
@@ -54,7 +54,7 @@ Candidates are evaluated one at a time.
 
 A candidate's position in this queue is **not** its consciousness score and must not be treated as a prior conclusion about the final result.
 
-1. **Lottery machine** — historical first-pass score 0; **revalidation required under revised rubric**
+1. **Lottery machine** — **revalidated: 0 / 100; assessment confidence HIGH**
 2. **Blanket**
 3. **Lightbulb**
 4. **Planet**
@@ -112,16 +112,20 @@ Full method: [`RUBRIC.md`](RUBRIC.md).
 
 ### Candidate 001 — Lottery Machine
 
-**Historical first-pass score:** 0 / 100  
-**Historical constraint:** **Mere selection contributes 0 positive evidence of consciousness.**  
-**Current status:** **REVALIDATION REQUIRED**
+**Revalidated score:** 0 / 100  
+**Assessment confidence:** HIGH  
+**Status:** **REVALIDATED UNDER REVISED RUBRIC**
 
-The first-pass record is preserved as provenance. Its score and constraint must be tested under the revised rubric before they are treated as frozen calibration results.
+**Preserved constraint:** **Mere selection contributes 0 positive evidence of consciousness.**
+
+**Additional calibration constraint:** Ordinary physical persistence, component interaction, randomness, and state change must not be relabeled as consciousness-relevant information-processing indicators without evidence that the candidate actually implements the relevant mechanism.
+
+The historical first-pass record and methodological correction are preserved inside the full calibration record.
 
 Full record: [`calibration/CANDIDATE_001_LOTTERY_MACHINE.md`](calibration/CANDIDATE_001_LOTTERY_MACHINE.md)
 
 ### Candidate 002 — Blanket
 
-**Status:** NOT YET PRESERVED
+**Status:** READY FOR REVISED-RUBRIC EVALUATION
 
-The blanket discussion occurred before the rubric revision. It will be evaluated only after Candidate 001 is revalidated.
+The earlier blanket discussion was not preserved as a final score. Candidate 002 will be evaluated fresh under the revised rubric.
