@@ -1,7 +1,7 @@
 # Consciousness-Inference Rubric
 
 **Repository:** AI-Foundations-What-Is-Consciousness  
-**Status:** PROVISIONAL — literature-aligned revision; calibration pending  
+**Status:** PROVISIONAL — initial 27-candidate calibration pass complete; framework remains unvalidated  
 **Revision date:** 2026-08-25  
 **Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum
 
@@ -100,13 +100,41 @@ Can the system use its current state to direct or sequence access to different i
 
 Can perceptual processing be influenced by internally generated, top-down, predictive, or noise-sensitive activity rather than being purely stimulus-driven?
 
-### HOT-2 — Metacognitive monitoring
+### HOT-2 — Metacognitive monitoring / Type 2 sensitivity
 
-Does the system monitor the reliability, uncertainty, source, or quality of its own representations?
+Does the system monitor the reliability, uncertainty, source, or quality of its own first-order representations **in a way that tracks whether those first-order judgments are correct**?
+
+For candidates capable of repeated decisions, HOT-2 should be evaluated using the Type 1 / Type 2 distinction:
+
+- **Type 1 performance:** whether the candidate gets the object-level task right;
+- **Type 2 performance:** whether confidence, uncertainty, error prediction, or self-evaluation discriminates correct from incorrect Type 1 responses.
+
+The strongest evidence controls first-order task performance and response bias rather than relying on raw confidence or confidence-accuracy correlation alone.
+
+Where appropriate, measures may include meta-d′, M-ratio, hierarchical meta-d′, or another psychometrically justified metacognitive-sensitivity measure.
+
+**Free-form statements such as “I am uncertain,” confidence tokens, or self-referential language do not establish HOT-2 by themselves.** For language models and other systems trained to produce confidence-like reports, such evidence should normally be marked **CONFOUNDED** unless confidence demonstrably tracks trial-level correctness under controlled testing.
+
+No meta-d′, M-ratio, or other metacognitive value is treated as a consciousness threshold.
 
 ### HOT-3 — Metacognition-guided belief/action updating
 
-Does metacognitive monitoring causally influence broader belief formation, decision making, or action selection?
+Does the candidate's independently demonstrated Type 2 signal **causally influence** broader cognition or action?
+
+Evidence can include systematic changes in:
+
+- information seeking;
+- strategy selection;
+- decision policy;
+- belief revision;
+- error correction;
+- abstention;
+- resource allocation;
+- or action selection
+
+as a function of metacognitively represented confidence or uncertainty.
+
+HOT-3 is stronger than merely producing a confidence estimate. The metacognitive signal must have a demonstrated downstream consequence.
 
 ### HOT-4 — Structured quality-space coding
 
@@ -145,6 +173,7 @@ Examples:
 - some global-workspace properties presuppose recurrence;
 - predictive coding includes recurrent/top-down structure;
 - higher-order indicators build on one another;
+- HOT-3 depends on some credible HOT-2 signal;
 - embodiment often implies some form of agency.
 
 Therefore:
@@ -241,7 +270,7 @@ How well justified are the claimed sensitivity, specificity, and theoretical con
 
 ### Construct validity
 
-Does the measure target phenomenal consciousness, or only a related capacity such as reportability, attention, cognition, memory, or task compliance?
+Does the measure target phenomenal consciousness, or only a related capacity such as reportability, attention, cognition, memory, confidence, or task compliance?
 
 ### Gameability / mimicry
 
@@ -250,6 +279,10 @@ Can the apparent indicator be deliberately engineered, copied, cued, scripted, o
 ### Independence
 
 Is this genuinely new evidence, or the same underlying mechanism counted again under another label?
+
+### First-order control for metacognition
+
+When metacognitive evidence is used, has Type 2 sensitivity been separated from Type 1 task performance and simple confidence bias?
 
 ---
 
@@ -267,7 +300,8 @@ Relevant evidence can include:
 - resting-state and task-based neurophysiology;
 - TMS-EEG / perturbational complexity;
 - effects of anesthesia, lesions, stimulation, or recovery;
-- arousal and confound assessment.
+- arousal and confound assessment;
+- controlled Type 1 / Type 2 metacognitive tasks where relevant.
 
 ## Nonhuman animal module
 
@@ -279,7 +313,8 @@ Relevant evidence can include:
 - sensory integration;
 - attention and memory;
 - sleep/wake organization;
-- species-appropriate perturbation or neural evidence.
+- species-appropriate perturbation or neural evidence;
+- confidence-like or uncertainty-monitoring behavior only where first-order performance is appropriately controlled.
 
 ## AI / computational module
 
@@ -291,7 +326,12 @@ Relevant evidence can include:
 - state and memory analysis;
 - controlled behavioral experiments;
 - system-boundary specification;
+- calibrated confidence or error prediction across repeated trials;
+- evidence that Type 2 signals track objective correctness after controlling Type 1 performance;
+- evidence that Type 2 signals causally alter later reasoning or action;
 - evidence that apparent self-report or introspection tracks internal mechanisms rather than prompting or imitation.
+
+For AI, **linguistic confidence without calibration is not sufficient evidence of metacognition**.
 
 ## Simple physical / engineered object module
 
@@ -336,11 +376,6 @@ Every score must also report:
 
 This rating describes confidence in the *quality and completeness of the evidence used to assign the score*, not confidence that the candidate is conscious.
 
-Examples:
-
-- `Score 5 / 100 — Assessment confidence HIGH` can mean the candidate is well understood and provides almost no consciousness evidence.
-- `Score 5 / 100 — Assessment confidence LOW` can mean very little is known, so the low score is fragile.
-
 ---
 
 # 9. Required Candidate Record
@@ -352,41 +387,48 @@ Before a score is preserved, record:
 3. **Primary indicator battery** — status and evidence for each applicable indicator.
 4. **Supplemental evidence** — temporal, valence, biological, causal, behavioral, or other relevant evidence.
 5. **Test-quality notes** — specificity, sensitivity, rational confidence, construct validity, gameability, independence.
-6. **Strongest positive evidence.**
-7. **Strongest negative evidence.**
-8. **Neutral/absent indicators that must not be mistaken for negative evidence.**
-9. **Unresolved evidence and unavailable measurements.**
-10. **Best sufficient non-conscious explanation** of the observed behavior, when one exists. This explanation is an alternative model, not automatic proof of non-consciousness.
-11. **Consciousness-inference score: 0–100.**
-12. **Assessment confidence: LOW / MODERATE / HIGH.**
-13. **Claim ceiling** — what the result does and does not establish.
-14. **New calibration constraint**, if one is earned.
+6. **Metacognition control**, when relevant — Type 1 performance, Type 2 sensitivity, confidence bias, and whether Type 2 signals affect later cognition/action.
+7. **Strongest positive evidence.**
+8. **Strongest negative evidence.**
+9. **Neutral/absent indicators that must not be mistaken for negative evidence.**
+10. **Unresolved evidence and unavailable measurements.**
+11. **Best sufficient non-conscious explanation** of the observed behavior, when one exists. This explanation is an alternative model, not automatic proof of non-consciousness.
+12. **Consciousness-inference score: 0–100.**
+13. **Assessment confidence: LOW / MODERATE / HIGH.**
+14. **Claim ceiling** — what the result does and does not establish.
+15. **New calibration constraint**, if one is earned.
 
 ---
 
-# 10. Freeze Rule
+# 10. Calibration Status
 
-This revision is **not yet frozen**.
+The initial **27-candidate calibration pass is complete**.
 
-No new candidate score should be treated as final until Candidate 001 — Lottery Machine is rerun under this rubric.
+This does not validate the rubric or convert the 0–100 index into an empirical probability scale.
 
-The earlier Lottery Machine score remains part of the provenance record, but its indicator table was produced under the simpler first-pass rubric and therefore requires revalidation before it is treated as the calibration anchor for this version.
+Future revisions must preserve provenance. When a methodological correction changes how an indicator is interpreted, affected candidate records should be marked for revalidation rather than silently rewritten as though they had been scored under the newer method.
 
-Candidate 002 — Blanket has not yet been preserved and should be evaluated only after Candidate 001 is revalidated.
+The Type 1 / Type 2 metacognition clarification is such a methodological refinement. Candidate records that relied materially on metacognitive evidence should be reviewed under this operational standard before any future frozen release.
 
 ---
 
 # 11. Scientific Basis
 
-The current scientific basis and source record are maintained in [`CURRENT_SCIENCE_BASIS.md`](CURRENT_SCIENCE_BASIS.md).
+The current consciousness science basis is maintained in [`CURRENT_SCIENCE_BASIS.md`](CURRENT_SCIENCE_BASIS.md).
 
-The principal modern methodological sources include:
+Metacognition measurement details are maintained in [`meta-cognition.md`](meta-cognition.md).
+
+Principal methodological sources include:
 
 - Butlin, P., Long, R., Bayne, T., et al. (2026). *Identifying indicators of consciousness in AI systems*. Trends in Cognitive Sciences, 30(6), 488–501. DOI: 10.1016/j.tics.2025.10.011.
 - Bayne, T., Seth, A. K., Massimini, M., et al. (2024). *Tests for consciousness in humans and beyond*. Trends in Cognitive Sciences, 28(5), 454–466. DOI: 10.1016/j.tics.2024.01.010.
 - Cogitate Consortium et al. (2025). *Adversarial testing of global neuronal workspace and integrated information theories of consciousness*. Nature, 642, 133–142. DOI: 10.1038/s41586-025-08888-1.
+- Maniscalco, B. & Lau, H. (2012). *A signal detection theoretic approach for estimating metacognitive sensitivity from confidence ratings*. Consciousness and Cognition, 21(1), 422–430. DOI: 10.1016/j.concog.2011.09.021.
+- Fleming, S. M. & Lau, H. C. (2014). *How to measure metacognition*. Frontiers in Human Neuroscience, 8, 443. DOI: 10.3389/fnhum.2014.00443.
+- Fleming, S. M. (2017). *HMeta-d: hierarchical Bayesian estimation of metacognitive efficiency from confidence ratings*. Neuroscience of Consciousness, 2017(1), nix007. DOI: 10.1093/nc/nix007.
+- Rahnev, D. (2025). *A comprehensive assessment of current methods for measuring metacognition*. Nature Communications, 16, 701. DOI: 10.1038/s41467-025-56117-0.
 
-The theory-derived indicator list is externally sourced scientific material and is included here with attribution. AI Foundations does not claim authorship of the source theories or source indicator framework.
+The theory-derived indicator list and external metacognition methods are externally sourced scientific material and remain attributed to their original authors. AI Foundations does not claim authorship of the source theories or measurement methods.
 
 ---
 
