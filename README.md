@@ -26,6 +26,48 @@ The method is deliberately multi-theory, population-aware, evidence-quality cons
 
 ---
 
+## Repository Structure
+
+```text
+AI-Foundations-What-Is-Consciousness/
+├── README.md
+├── LICENSE.md
+├── CITATION.cff
+├── docs/
+│   ├── README.md
+│   ├── REPORT.md
+│   ├── consciousness-defined.md
+│   ├── subjective-defined.md
+│   ├── thinking-definition.md
+│   ├── meta-cognition.md
+│   ├── mattering.md
+│   ├── inference-evidence-definition.md
+│   ├── inference-yes-or-no.md
+│   ├── where-proven.md
+│   ├── RUBRIC.md
+│   ├── confidence-score.md
+│   ├── candidates.md
+│   ├── CURRENT_SCIENCE_BASIS.md
+│   └── calibration/
+│       ├── CANDIDATE_001_LOTTERY_MACHINE.md
+│       └── CANDIDATE_002_BLANKET.md
+└── templates/
+    ├── PROTOCOL_TEMPLATE.md
+    ├── EASY_RUN_SHEET_TEMPLATE.md
+    └── RUN_OUTPUT_TEMPLATE.md
+```
+
+### Navigation
+
+- [`docs/README.md`](docs/README.md) — organized documentation index
+- [`docs/REPORT.md`](docs/REPORT.md) — current synthesis and methodology correction
+- [`docs/RUBRIC.md`](docs/RUBRIC.md) — consciousness-inference rubric
+- [`docs/candidates.md`](docs/candidates.md) — preserved results and pending candidate queue
+- [`docs/CURRENT_SCIENCE_BASIS.md`](docs/CURRENT_SCIENCE_BASIS.md) — dated scientific basis
+- [`templates/`](templates/) — optional run infrastructure
+
+---
+
 ## Current Calibration State
 
 Two candidate results are currently preserved:
@@ -39,13 +81,11 @@ Candidates 003–027 currently have **no canonical numerical score**.
 
 A prior rapid batch evaluation of those candidates was withdrawn after a methodology correction. The withdrawn scores remain visible only in Git history as provenance and must not be treated as current results.
 
-See [`REPORT.md`](REPORT.md) and [`candidates.md`](candidates.md).
-
 ---
 
 ## Metacognition Correction
 
-Metacognition is now operationalized using the Type 1 / Type 2 distinction:
+Metacognition is operationalized using the Type 1 / Type 2 distinction:
 
 - **Type 1:** whether the first-order judgment is correct;
 - **Type 2:** whether confidence or uncertainty tracks whether the first-order judgment is correct.
@@ -54,23 +94,7 @@ Confidence language alone is not evidence of metacognitive sensitivity.
 
 Where applicable, HOT-2 requires second-order sensitivity while controlling for first-order performance; HOT-3 additionally requires that the second-order signal influence later cognition or action.
 
-See [`meta-cognition.md`](meta-cognition.md) and [`RUBRIC.md`](RUBRIC.md).
-
----
-
-## Core Structure
-
-- [`REPORT.md`](REPORT.md) — current synthesis and retraction notice
-- [`consciousness-defined.md`](consciousness-defined.md) — working definition of phenomenal consciousness
-- [`meta-cognition.md`](meta-cognition.md) — cognition, consciousness, and operationalized metacognition
-- [`mattering.md`](mattering.md) — valence / mattering boundary
-- [`inference-evidence-definition.md`](inference-evidence-definition.md) — why other-system consciousness is inferred
-- [`inference-yes-or-no.md`](inference-yes-or-no.md) — evidential direction rules
-- [`RUBRIC.md`](RUBRIC.md) — theory-derived rubric and test requirements
-- [`confidence-score.md`](confidence-score.md) — 0–100 epistemic score plus separate assessment-confidence rating
-- [`CURRENT_SCIENCE_BASIS.md`](CURRENT_SCIENCE_BASIS.md) — dated scientific basis
-- [`candidates.md`](candidates.md) — preserved results and pending queue
-- [`calibration/`](calibration/) — currently preserved Candidate 001 and Candidate 002 records
+See [`docs/meta-cognition.md`](docs/meta-cognition.md) and [`docs/RUBRIC.md`](docs/RUBRIC.md).
 
 ---
 
