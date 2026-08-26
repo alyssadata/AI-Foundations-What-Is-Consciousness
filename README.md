@@ -1,11 +1,11 @@
 # AI Foundations | What Is Consciousness?
 
 **Repository:** AI-Foundations-What-Is-Consciousness  
-**Status:** **Active recalibration — Candidates 001–008 preserved; 009–027 withdrawn pending revalidation**  
+**Status:** **Active recalibration — Candidates 001–009 preserved; 010–027 withdrawn pending revalidation**  
 **Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum  
 **Author:** Alyssa Solen  
 **Version:** 1.0.0  
-**Scientific checkpoint:** 2026-08-25  
+**Scientific checkpoint:** 2026-08-26  
 **Canonical entrance:** https://awakeningcodex.com
 
 ---
@@ -63,7 +63,8 @@ AI-Foundations-What-Is-Consciousness/
 │       ├── CANDIDATE_005_STAR.md
 │       ├── CANDIDATE_006_FLOWER.md
 │       ├── CANDIDATE_007_WATCH.md
-│       └── CANDIDATE_008_SCALE.md
+│       ├── CANDIDATE_008_SCALE.md
+│       └── CANDIDATE_009_POCKET_CALCULATOR.md
 └── templates/
     ├── PROTOCOL_TEMPLATE.md
     ├── EASY_RUN_SHEET_TEMPLATE.md
@@ -85,7 +86,7 @@ AI-Foundations-What-Is-Consciousness/
 
 ## Current Calibration State
 
-Eight candidate results are currently preserved:
+Nine candidate results are currently preserved:
 
 | Candidate | Score | Assessment confidence |
 | --- | ---: | --- |
@@ -97,8 +98,9 @@ Eight candidate results are currently preserved:
 | Ordinary flowering plant | **0 / 100** | MODERATE |
 | Ordinary quartz analog wristwatch | **0 / 100** | HIGH |
 | Ordinary digital household scale | **0 / 100** | HIGH |
+| Basic non-programmable pocket calculator | **0 / 100** | HIGH |
 
-Candidates 003–008 have been re-derived under the corrected rubric and re-entered the preserved set. Candidates 009–027 currently have **no canonical numerical score**.
+Candidates 003–009 have been re-derived under the corrected rubric and re-entered the preserved set. Candidates 010–027 currently have **no canonical numerical score**.
 
 The initial rapid batch evaluation of Candidates 003–027 remains withdrawn as provenance; revalidation occurs one candidate at a time and does not reinstate the old batch values.
 
@@ -130,6 +132,7 @@ See [`docs/meta-cognition.md`](docs/meta-cognition.md) and [`docs/RUBRIC.md`](do
 **confidence language ≠ metacognitive sensitivity**  
 **intelligence ≠ consciousness**  
 **complexity ≠ consciousness**  
+**computation ≠ consciousness**  
 **confidence score ≠ amount of consciousness**
 
 ---
@@ -155,7 +158,7 @@ No score is assigned until the relevant indicators and tests are operationalized
 
 The framework is provisional and is not scientifically validated as a universal consciousness detector.
 
-At the current state, Candidates 001–008 have preserved numerical calibration results. The 0–100 score is an epistemic confidence index, not an empirical probability or an amount of consciousness.
+At the current state, Candidates 001–009 have preserved numerical calibration results. The 0–100 score is an epistemic confidence index, not an empirical probability or an amount of consciousness.
 
 ---
 
