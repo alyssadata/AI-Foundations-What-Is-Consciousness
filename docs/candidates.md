@@ -3,8 +3,8 @@
 **Framework:** [`RUBRIC.md`](RUBRIC.md)  
 **Score meaning:** degree of epistemic justification for inferring phenomenal consciousness  
 **Assessment confidence:** confidence in the quality and completeness of evidence used for the score  
-**Current calibration status:** **8 candidates preserved; 19 candidates pending re-evaluation**  
-**Scientific checkpoint:** 2026-08-25  
+**Current calibration status:** **9 candidates preserved; 18 candidates pending re-evaluation**  
+**Scientific checkpoint:** 2026-08-26  
 **Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum
 
 ---
@@ -38,6 +38,7 @@ Accordingly, the withdrawn batch is not treated as valid calibration evidence. G
 | 006 | Ordinary flowering plant | **0 / 100** | MODERATE | Evaluated under corrected rubric |
 | 007 | Ordinary quartz analog wristwatch | **0 / 100** | HIGH | Evaluated under corrected rubric |
 | 008 | Ordinary digital household scale | **0 / 100** | HIGH | Evaluated under corrected rubric |
+| 009 | Basic non-programmable pocket calculator | **0 / 100** | HIGH | Evaluated under corrected rubric |
 
 ## Candidate 001 — Lottery Machine
 
@@ -99,13 +100,20 @@ Metacognition boundary: **error detection ≠ metacognition.**
 
 Full record: [`calibration/CANDIDATE_008_SCALE.md`](calibration/CANDIDATE_008_SCALE.md)
 
+## Candidate 009 — Pocket Calculator
+
+**Preserved constraint:** **Rule-governed computation over internally used representational states does not, by itself, establish subjective experience.**
+
+Semantic boundary: **correct manipulation ≠ experienced understanding.**
+
+Full record: [`calibration/CANDIDATE_009_POCKET_CALCULATOR.md`](calibration/CANDIDATE_009_POCKET_CALCULATOR.md)
+
 ---
 
 # Pending Candidate Queue
 
 The following candidates have **no current canonical score** and must be evaluated again under the corrected rubric:
 
-9. Pocket calculator
 10. Printer
 11. Television
 12. Oven
