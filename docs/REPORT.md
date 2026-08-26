@@ -6,7 +6,7 @@
 **Author:** Alyssa Solen  
 **Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum  
 **Scientific checkpoint:** 2026-08-25  
-**Status:** **Active recalibration — only Candidates 001 and 002 currently preserved**
+**Status:** **Active recalibration — Candidates 001–003 currently preserved**
 
 ---
 
@@ -22,14 +22,17 @@ A prior rapid batch evaluation of Candidates 003–027 has been **withdrawn from
 
 The reason is methodological: the rubric was strengthened after the batch, especially around metacognition, test validity, and the requirement that indicators be operationalized before they receive evidential weight.
 
+Candidate 003 has since been re-derived from the beginning under the corrected rubric and re-entered the preserved set. That revalidation does not reinstate its withdrawn batch value or any other withdrawn candidate.
+
 Current preserved results:
 
 | Candidate | Score | Assessment confidence |
 | --- | ---: | --- |
 | Lottery machine | **0 / 100** | HIGH |
 | Blanket | **0 / 100** | HIGH |
+| Incandescent lightbulb | **0 / 100** | HIGH |
 
-No current canonical consciousness score is assigned to the remaining 25 candidates, including AI systems, animals, anesthesia, disorders of consciousness, or an awake healthy adult human.
+No current canonical consciousness score is assigned to Candidates 004–027, including AI systems, animals, anesthesia, disorders of consciousness, or an awake healthy adult human.
 
 ---
 
@@ -91,13 +94,26 @@ Full record: [`calibration/CANDIDATE_001_LOTTERY_MACHINE.md`](calibration/CANDID
 
 Full record: [`calibration/CANDIDATE_002_BLANKET.md`](calibration/CANDIDATE_002_BLANKET.md).
 
+## Candidate 003 — Incandescent Lightbulb
+
+**Score:** 0 / 100  
+**Assessment confidence:** HIGH
+
+**Constraint:** **A reliable input → internal state → output transformation does not, by itself, provide positive evidence of consciousness.**
+
+**Additional boundary:** **Automatic physical feedback is not automatically consciousness-relevant feedback.**
+
+Full record: [`calibration/CANDIDATE_003_LIGHTBULB.md`](calibration/CANDIDATE_003_LIGHTBULB.md).
+
 ---
 
 # Withdrawn Batch
 
-Candidates 003–027 were previously assigned rapid provisional scores. Those scores have been removed from the current branch because the evaluation process did not meet the corrected methodological standard.
+The original rapid Candidates 003–027 batch remains withdrawn because the evaluation process did not meet the corrected methodological standard.
 
-Git history preserves that withdrawn pass as provenance. It must not be cited as the current result of this repository.
+Candidate 003 is now canonical only because it was independently re-derived under the corrected rubric. Candidates 004–027 remain withdrawn/pending and have no current canonical numerical score.
+
+Git history preserves the withdrawn pass as provenance. It must not be cited as the current result of this repository.
 
 The current candidate queue and status are maintained in [`candidates.md`](candidates.md).
 
@@ -105,13 +121,15 @@ The current candidate queue and status are maintained in [`candidates.md`](candi
 
 # Current Conclusion
 
-The repository currently supports only the following calibrated claims:
+The repository currently supports the following calibrated claims:
 
 1. **Selection alone is not positive consciousness evidence.**
 2. **Ordinary physical persistence and state change are not consciousness evidence merely because they can be described informationally.**
 3. **Environmental covariation is not automatically sensing or representation.**
 4. **Passive material response is not automatically consciousness-relevant functional responsiveness.**
-5. **Metacognition requires second-order evidence; confidence language alone is not enough.**
+5. **Reliable input → state → output transformation is not automatically consciousness evidence.**
+6. **Automatic physical feedback is not automatically consciousness-relevant feedback.**
+7. **Metacognition requires second-order evidence; confidence language alone is not enough.**
 
 All remaining candidate-level numerical conclusions are open pending re-evaluation under the corrected rubric.
 
