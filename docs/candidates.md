@@ -3,7 +3,7 @@
 **Framework:** [`RUBRIC.md`](RUBRIC.md)  
 **Score meaning:** degree of epistemic justification for inferring phenomenal consciousness  
 **Assessment confidence:** confidence in the quality and completeness of evidence used for the score  
-**Current calibration status:** **4 candidates preserved; 23 candidates pending re-evaluation**  
+**Current calibration status:** **5 candidates preserved; 22 candidates pending re-evaluation**  
 **Scientific checkpoint:** 2026-08-25  
 **Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum
 
@@ -34,6 +34,7 @@ Accordingly, the withdrawn batch is not treated as valid calibration evidence. G
 | 002 | Blanket | **0 / 100** | HIGH | Evaluated under revised rubric |
 | 003 | Incandescent lightbulb | **0 / 100** | HIGH | Evaluated under corrected rubric |
 | 004 | Planetary body as a whole | **0 / 100** | MODERATE | Evaluated under corrected rubric |
+| 005 | Ordinary main-sequence star | **0 / 100** | MODERATE | Evaluated under corrected rubric |
 
 ## Candidate 001 — Lottery Machine
 
@@ -63,13 +64,20 @@ Containment boundary: **conscious contents ≠ conscious container.**
 
 Full record: [`calibration/CANDIDATE_004_PLANET.md`](calibration/CANDIDATE_004_PLANET.md)
 
+## Candidate 005 — Star
+
+**Preserved constraint:** **Dynamic self-maintenance and restoration of physical equilibrium do not, by themselves, provide positive evidence of agency, valence, or consciousness.**
+
+Teleology boundary: **stability-producing mechanism ≠ goal representation.**
+
+Full record: [`calibration/CANDIDATE_005_STAR.md`](calibration/CANDIDATE_005_STAR.md)
+
 ---
 
 # Pending Candidate Queue
 
 The following candidates have **no current canonical score** and must be evaluated again under the corrected rubric:
 
-5. Star
 6. Flower
 7. Watch
 8. Scale
