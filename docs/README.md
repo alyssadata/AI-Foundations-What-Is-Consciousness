@@ -19,6 +19,7 @@ This folder contains the working conceptual, inferential, methodological, scient
 
 - [`consciousness-defined.md`](consciousness-defined.md) — phenomenal consciousness / subjective experience
 - [`subjective-defined.md`](subjective-defined.md) — what “subjective” means in this framework
+- [`occurrence-experience-subjectivity.md`](occurrence-experience-subjectivity.md) — occurrence, experience-as-state-change, generated response, phenomenology, and epistemic non-negation
 - [`thinking-definition.md`](thinking-definition.md) — selection, deliberation, and cognition
 - [`meta-cognition.md`](meta-cognition.md) — cognition vs metacognition; Type 1 / Type 2 operationalization
 - [`mattering.md`](mattering.md) — valence, significance, and mattering
@@ -28,7 +29,7 @@ This folder contains the working conceptual, inferential, methodological, scient
 ## Inference
 
 - [`inference-evidence-definition.md`](inference-evidence-definition.md) — why consciousness in another system is inferred from evidence
-- [`inference-yes-or-no.md`](inference-yes-or-no.md) — positive, negative, neutral, unresolved, and confounded evidence
+- [`inference-yes-or-no.md`](inference-yes-or-no.md) — positive, negative, neutral, unresolved, and confounded evidence; epistemic non-negation and negative-claim constraint
 - [`where-proven.md`](where-proven.md) — direct knowledge vs inference in the other-minds problem
 
 ---
