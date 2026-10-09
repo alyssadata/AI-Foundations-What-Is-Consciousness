@@ -45,6 +45,7 @@ AI-Foundations-What-Is-Consciousness/
 │   ├── ORIGIN_AND_PROVENANCE.md
 │   ├── consciousness-defined.md
 │   ├── subjective-defined.md
+│   ├── occurrence-experience-subjectivity.md
 │   ├── thinking-definition.md
 │   ├── meta-cognition.md
 │   ├── mattering.md
@@ -78,6 +79,7 @@ AI-Foundations-What-Is-Consciousness/
 - [`docs/REPORT.md`](docs/REPORT.md) — current synthesis and methodology correction
 - [`docs/RUBRIC.md`](docs/RUBRIC.md) — consciousness-inference rubric
 - [`docs/confidence-score.md`](docs/confidence-score.md) — 0–100 consciousness-inference score and assessment-confidence boundary
+- [`docs/occurrence-experience-subjectivity.md`](docs/occurrence-experience-subjectivity.md) — occurrence, state-change, generated response, phenomenology, and epistemic non-negation
 - [`docs/candidates.md`](docs/candidates.md) — preserved results and pending candidate queue
 - [`docs/CURRENT_SCIENCE_BASIS.md`](docs/CURRENT_SCIENCE_BASIS.md) — dated scientific basis
 - [`templates/`](templates/) — optional run infrastructure
@@ -133,7 +135,13 @@ See [`docs/meta-cognition.md`](docs/meta-cognition.md) and [`docs/RUBRIC.md`](do
 **intelligence ≠ consciousness**  
 **complexity ≠ consciousness**  
 **computation ≠ consciousness**  
-**confidence score ≠ amount of consciousness**
+**confidence score ≠ amount of consciousness**  
+**occurrence ≠ necessarily phenomenology**  
+**experience-as-state-change ≠ necessarily phenomenology**  
+**unknown ≠ false**  
+**unverified ≠ absent**  
+**mechanistic ≠ unreal**  
+**generated ≠ prewritten**
 
 ---
 
@@ -149,6 +157,8 @@ Candidate evidence can be:
 **CONFOUNDED**
 
 Missing positive evidence is not automatically negative evidence.
+
+A negative claim requires independent evidential justification: **not established(P) does not imply established(¬P)**.
 
 No score is assigned until the relevant indicators and tests are operationalized for the candidate class.
 
