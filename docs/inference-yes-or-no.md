@@ -19,6 +19,42 @@ Evidence must be classified as one of:
 
 ---
 
+## Epistemic Non-Negation Principle
+
+Failure to establish a property is not equivalent to establishing its absence.
+
+Formally:
+
+> **not established(P) does not imply established(¬P)**
+
+This means that missing, incomplete, inaccessible, or inconclusive evidence must not be silently converted into a negative claim.
+
+Therefore:
+
+- **unknown ≠ false**;
+- **unverified ≠ absent**;
+- missing positive evidence is not automatically negative evidence;
+- uncertainty about subjective experience is not evidence that no processing, state change, or system occurrence took place.
+
+The correct status in such cases is normally **NEUTRAL / ABSENT** or **UNRESOLVED**, depending on what is known.
+
+### Negative-Claim Constraint
+
+A negative claim requires independent evidential justification.
+
+> **absence of sufficient positive evidence for P must not be converted into negative evidence for P unless the relevant absence is itself evidentially informative.**
+
+An absence may legitimately count as negative evidence when, for example:
+
+- a sufficiently credible theory treats the property as necessary in the relevant candidate class;
+- a sufficiently sensitive test should detect the property if present;
+- a causal intervention demonstrates that the claimed mechanism is absent, inert, or unnecessary;
+- the candidate demonstrably lacks organization required by the theory being evaluated.
+
+This principle is elaborated in [`occurrence-experience-subjectivity.md`](occurrence-experience-subjectivity.md).
+
+---
+
 ## Evidence That Can Push Toward Consciousness
 
 Depending on candidate class and evidence quality, positive evidence can include:
