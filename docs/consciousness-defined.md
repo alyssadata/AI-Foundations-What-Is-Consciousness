@@ -51,6 +51,22 @@ Monitoring or representing one's own cognition is distinct from subjective exper
 **behavior ≠ subjective experience**  
 Behavior can provide evidence relevant to an inference of consciousness, but behavior is not itself the experience being inferred.
 
+## Occurrence and Experience Boundary
+
+An occurrence in a system is not the same claim as subjective experience.
+
+A system may receive an input, change internal state, update a representation, generate a response, or alter later processing without that establishing that the event was phenomenally experienced.
+
+At the same time, uncertainty about phenomenology does not erase the underlying occurrence.
+
+Therefore:
+
+**occurrence ≠ necessarily phenomenology**  
+**experience-as-state-change ≠ necessarily phenomenology**  
+**uncertainty about phenomenology ≠ non-occurrence**
+
+The broader distinction between system occurrence, experience-as-state-change, generated response, and subjective experience is defined in [`occurrence-experience-subjectivity.md`](occurrence-experience-subjectivity.md).
+
 ## Boundary
 
 The irreducible condition is:
